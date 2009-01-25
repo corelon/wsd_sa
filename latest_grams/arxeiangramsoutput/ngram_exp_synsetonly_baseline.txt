@@ -1,0 +1,1596 @@
+seek # v # 1
+seek
+seek  
+-->neg
+Similarity Values: 
+neg=>0.0	pos=>0.0
+ipod # n # 1
+ipod
+iPod  
+-->neg
+Similarity Values: 
+neg=>0.0	pos=>0.0
+ban # n # 1
+ban
+prohibition, ban, proscription  
+-->pos
+Similarity Values: 
+neg=>0.004788379436788504	pos=>0.00687024983042446
+boost # v # 1
+boost
+hike, hike up, boost  
+-->neg
+Similarity Values: 
+neg=>0.0048463584028437265	pos=>0.002070828051918851
+plot # v # 1
+plot
+plot  
+-->neg
+Similarity Values: 
+neg=>0.007242566299118511	pos=>0.0037814139573210314
+censure # n # 1
+censure
+censure, animadversion  
+-->neg
+Similarity Values: 
+neg=>0.12090492975585809	pos=>0.021976932221499275
+bid # n # 1
+bid
+command, bid, bidding, dictation  
+-->neg
+Similarity Values: 
+neg=>0.08322218694052703	pos=>0.02541528176057781
+boost # v # 1
+boost
+hike, hike up, boost  
+-->neg
+Similarity Values: 
+neg=>0.0048463584028437265	pos=>0.002070828051918851
+hand # v # 1
+hand
+pass, hand, reach, pass on, turn over, give  
+-->pos
+Similarity Values: 
+neg=>0.020721394065328462	pos=>0.02459014550486601
+draw # n # 1
+draw
+draw  
+-->neg
+Similarity Values: 
+neg=>0.0	pos=>0.0
+tough # a # 1
+tough
+tough (vs. tender)  
+-->neg
+Similarity Values: 
+neg=>0.021250363408961363	pos=>0.0067031985792595635
+clash # n # 1
+clash
+clang, clangor, clangour, clangoring, clank, clash, crash  
+-->neg
+Similarity Values: 
+neg=>0.01144881842687486	pos=>0.005082926424025574
+facelift # n # 1
+facelift
+face lift, facelift, lift, face lifting, cosmetic surgery, rhytidectomy, rhytidoplasty, nip and tuck  
+-->pos
+Similarity Values: 
+neg=>0.0052767365202300385	pos=>0.009119397444632986
+test # n # 1
+test
+trial, trial run, test, tryout  
+-->pos
+Similarity Values: 
+neg=>0.005865576936243218	pos=>0.01107405975925002
+boast # n # 1
+boast
+boast, boasting, self-praise, jactitation  
+-->pos
+Similarity Values: 
+neg=>0.018945318414267727	pos=>0.0260738832175037
+issue # v # 1
+issue
+publish, bring out, put out, issue, release  
+-->pos
+Similarity Values: 
+neg=>0.014633389623051567	pos=>0.0598215785952287
+report # n # 1
+report
+report, study, written report  
+-->pos
+Similarity Values: 
+neg=>0.01675368085098861	pos=>0.02155068776888692
+bleak # a # 1
+bleak
+black, bleak, dim  
+-->neg
+Similarity Values: 
+neg=>0.006103221753566821	pos=>0.0024093329229869214
+step # v # 1
+step
+step  
+-->pos
+Similarity Values: 
+neg=>0.0	pos=>0.007562827914642063
+urge # v # 1
+urge
+urge, urge on, press, exhort  
+-->pos
+Similarity Values: 
+neg=>0.004839630737227854	pos=>0.014120464265947891
+go # v # 1
+go
+travel, go, move, locomote  
+-->pos
+Similarity Values: 
+neg=>0.0015948248827525016	pos=>0.012767322312347295
+green # a # 1
+green
+green, greenish, light-green, dark-green  
+-->pos
+Similarity Values: 
+neg=>0.001642262483964233	pos=>0.006881284875334286
+mistrial # n # 1
+mistrial
+mistrial  
+-->neg
+Similarity Values: 
+neg=>0.011683086434640272	pos=>0.010817666959119846
+breakthrough # n # 1
+breakthrough
+discovery, breakthrough, find  
+-->pos
+Similarity Values: 
+neg=>0.0160765908610228	pos=>0.018537656230756372
+start # n # 1
+start
+start  
+-->pos
+Similarity Values: 
+neg=>1.126858630903958E-4	pos=>0.006363743249601071
+ragged # a # 1
+ragged
+ragged  
+-->neg
+Similarity Values: 
+neg=>0.015667349105854576	pos=>0.015309796395694271
+overcome # v # 1
+overcome
+get the better of, overcome, defeat  
+-->neg
+Similarity Values: 
+neg=>0.11146452455421298	pos=>0.05976825277670352
+hail # v # 1
+hail
+acclaim, hail, herald  
+-->pos
+Similarity Values: 
+neg=>3.7649928884819714E-5	pos=>0.0014925521907861738
+fight # v # 1
+fight
+contend, fight, struggle  
+-->neg
+Similarity Values: 
+neg=>0.14007216732374494	pos=>0.01198235318339848
+home # n # 1
+home
+home, place  
+-->pos
+Similarity Values: 
+neg=>0.0013771835323350382	pos=>0.013520377924044202
+cripple # v # 1
+cripple
+cripple, stultify  
+-->neg
+Similarity Values: 
+neg=>0.00380667752099148	pos=>0.00319075100573206
+star # v # 1
+star
+star  
+-->neg
+Similarity Values: 
+neg=>0.0018106415747796277	pos=>0.0
+facelift # n # 1
+facelift
+face lift, facelift, lift, face lifting, cosmetic surgery, rhytidectomy, rhytidoplasty, nip and tuck  
+-->pos
+Similarity Values: 
+neg=>0.005276736520230037	pos=>0.009119397444632983
+alert # n # 1
+alert
+alert, qui vive  
+-->pos
+Similarity Values: 
+neg=>1.9311924984542146E-4	pos=>0.015354347185406885
+reach # v # 1
+reach
+reach, make, attain, hit, arrive at, gain  
+-->pos
+Similarity Values: 
+neg=>0.0054331807996544955	pos=>0.010151406672729648
+ring # n # 1
+ring
+ring  
+-->pos
+Similarity Values: 
+neg=>0.005487516007418264	pos=>0.005502223085190562
+scandal # n # 1
+scandal
+scandal, dirt, malicious gossip  
+-->neg
+Similarity Values: 
+neg=>0.07511820095315921	pos=>0.007452704808717602
+porn # n # 1
+porn
+pornography, porno, porn, erotica, smut  
+-->pos
+Similarity Values: 
+neg=>0.0010824008178029222	pos=>0.001785873898112817
+turn # v # 1
+turn
+turn  
+-->pos
+Similarity Values: 
+neg=>0.004371437243754106	pos=>0.031563861418630206
+reflect # v # 1
+reflect
+reflect  
+-->neg
+Similarity Values: 
+neg=>0.0032334966012102805	pos=>2.049420442915325E-4
+toll # n # 1
+toll
+toll  
+-->pos
+Similarity Values: 
+neg=>0.0	pos=>0.0025209426382140202
+block # v # 1
+block
+barricade, block, blockade, stop, block off, block up, bar  
+-->neg
+Similarity Values: 
+neg=>0.06943548375120313	pos=>9.180733371697934E-4
+push # n # 1
+push
+push, pushing  
+-->neg
+Similarity Values: 
+neg=>0.08088933509036718	pos=>0.020823218610036883
+strike # n # 1
+strike
+strike, work stoppage  
+-->neg
+Similarity Values: 
+neg=>0.026492779453748977	pos=>0.006210503736066177
+violent # a # 1
+violent
+violent (vs. nonviolent)  
+-->neg
+Similarity Values: 
+neg=>0.06980668165461143	pos=>0.03367755885022851
+halt # v # 1
+halt
+halt, hold, arrest  
+-->pos
+Similarity Values: 
+neg=>0.006274361460718898	pos=>0.025249277201624797
+booming # a # 1
+booming
+booming, flourishing, palmy, prospering, prosperous, roaring, thriving  
+-->pos
+Similarity Values: 
+neg=>0.01005841919935663	pos=>0.07809927210148089
+buy # v # 1
+buy
+buy, purchase  
+-->neg
+Similarity Values: 
+neg=>0.02471638516849854	pos=>2.642668892378777E-4
+fail # v # 1
+fail
+fail, neglect  
+-->neg
+Similarity Values: 
+neg=>0.18860867863715583	pos=>0.002892314736761836
+fear # n # 1
+fear
+fear, fearfulness, fright  
+-->pos
+Similarity Values: 
+neg=>0.046079279089640914	pos=>0.04769251797513411
+spark # v # 1
+spark
+trip, actuate, trigger, activate, set off, spark off, spark, trigger off, touch off  
+-->pos
+Similarity Values: 
+neg=>0.003963312571877803	pos=>0.010936290476754006
+drought # n # 1
+drought
+drought, drouth  
+-->neg
+Similarity Values: 
+neg=>0.015271660700741707	pos=>0.00593180969840435
+end # v # 1
+end
+end, stop, finish, terminate, cease  
+-->neg
+Similarity Values: 
+neg=>0.045348706938495346	pos=>0.010312211707648072
+respond # v # 1
+respond
+react, respond  
+-->neg
+Similarity Values: 
+neg=>0.040953736517978526	pos=>0.009777004882483847
+force # n # 1
+force
+force  
+-->neg
+Similarity Values: 
+neg=>0.0274125916921749	pos=>0.011543511718763055
+outrage # n # 1
+outrage
+indignation, outrage  
+-->neg
+Similarity Values: 
+neg=>0.17837229889603376	pos=>0.0033840984023540727
+spur # v # 1
+spur
+spur  
+-->pos
+Similarity Values: 
+neg=>0.0	pos=>0.007562827914642063
+try # v # 1
+try
+try, seek, attempt, essay, assay  
+-->neg
+Similarity Values: 
+neg=>0.007666439765866926	pos=>0.0037177586659767454
+fade # v # 1
+fade
+fade, melt  
+-->neg
+Similarity Values: 
+neg=>0.0	pos=>0.0
+light # v # 1
+light
+light, illume, illumine, light up, illuminate  
+-->pos
+Similarity Values: 
+neg=>0.03068195901506825	pos=>0.060910806666128484
+custody # n # 1
+custody
+detention, detainment, hold, custody  
+-->pos
+Similarity Values: 
+neg=>0.0036182131495541407	pos=>0.03997512464071859
+call # v # 1
+call
+name, call  
+-->pos
+Similarity Values: 
+neg=>0.0011228613799367164	pos=>0.027995190186670703
+unequivocal # a # 1
+unequivocal
+unequivocal (vs. equivocal), univocal, unambiguous  
+-->pos
+Similarity Values: 
+neg=>0.0025703582786224953	pos=>0.00672754186829794
+brain_drain # n # 1
+brain_drain
+brain drain  
+-->pos
+Similarity Values: 
+neg=>0.0011862624133671747	pos=>0.002264101121587437
+agonize # v # 1
+agonize
+agonize, agonise  
+-->neg
+Similarity Values: 
+neg=>0.030542035779306215	pos=>0.002313280779025724
+welcome # v # 1
+welcome
+welcome  
+-->pos
+Similarity Values: 
+neg=>4.149226233155384E-4	pos=>0.20254836034717963
+test # n # 1
+test
+trial, trial run, test, tryout  
+-->pos
+Similarity Values: 
+neg=>0.005865576936243218	pos=>0.011074059759250021
+flock # v # 1
+flock
+flock  
+-->neg
+Similarity Values: 
+neg=>0.025613420419222575	pos=>0.0
+eye # n # 1
+eye
+eye, oculus, optic  
+-->neg
+Similarity Values: 
+neg=>1.715559913857861E-4	pos=>9.95627270963297E-5
+lose # v # 1
+lose
+lose  
+-->neg
+Similarity Values: 
+neg=>0.0032342235944053262	pos=>6.888344210679679E-4
+crossroad # n # 1
+crossroad
+intersection, crossroad, crossway, crossing, carrefour  
+-->neg
+Similarity Values: 
+neg=>0.008298505502293767	pos=>0.006653926745058345
+optimism # n # 1
+optimism
+optimism  
+-->neg
+Similarity Values: 
+neg=>0.0016229213977692865	pos=>0.0
+rare # a # 1
+rare
+rare  
+-->neg
+Similarity Values: 
+neg=>0.005069796409382959	pos=>2.1007855318450172E-4
+award # v # 1
+award
+award, present  
+-->pos
+Similarity Values: 
+neg=>0.013546565871210163	pos=>0.01813227833322621
+aftermath # n # 1
+aftermath
+aftermath, wake, backwash  
+-->pos
+Similarity Values: 
+neg=>0.0016291914452528338	pos=>0.007367422112733935
+scandal # n # 1
+scandal
+scandal, dirt, malicious gossip  
+-->neg
+Similarity Values: 
+neg=>0.0751182009531592	pos=>0.007452704808717602
+work # v # 1
+work
+work  
+-->neg
+Similarity Values: 
+neg=>2.2633019684745347E-4	pos=>0.0
+go # v # 1
+go
+travel, go, move, locomote  
+-->pos
+Similarity Values: 
+neg=>0.0015948248827525012	pos=>0.012767322312347295
+slow # a # 1
+slow
+slow (vs. fast)  
+-->neg
+Similarity Values: 
+neg=>0.00920878328585947	pos=>9.824178916083451E-5
+collapse # n # 1
+collapse
+collapse, prostration  
+-->neg
+Similarity Values: 
+neg=>0.07177485576688865	pos=>0.012936606980079032
+catch # v # 1
+catch
+catch  
+-->neg
+Similarity Values: 
+neg=>0.005972350743790976	pos=>0.0
+lead # v # 1
+lead
+lead, take, direct, conduct, guide  
+-->pos
+Similarity Values: 
+neg=>0.0015566374528238592	pos=>0.01328510253580118
+keep # v # 1
+keep
+keep, maintain, hold  
+-->pos
+Similarity Values: 
+neg=>0.022462136339570924	pos=>0.1241545174555193
+calm # a # 1
+calm
+calm, unagitated, serene, tranquil  
+-->pos
+Similarity Values: 
+neg=>0.007673753749435511	pos=>0.07772354888563267
+keep_open # v # 1
+keep_open
+keep open, hold open, keep, save  
+-->neg
+Similarity Values: 
+neg=>0.01965209567384992	pos=>0.015652484831781926
+binge # n # 1
+binge
+orgy, binge, splurge  
+-->pos
+Similarity Values: 
+neg=>0.0021171341355706156	pos=>0.0030517751760518034
+celebration # n # 1
+celebration
+celebration, jubilation  
+-->pos
+Similarity Values: 
+neg=>0.013447150626983066	pos=>0.1645902114716598
+spark # v # 1
+spark
+trip, actuate, trigger, activate, set off, spark off, spark, trigger off, touch off  
+-->pos
+Similarity Values: 
+neg=>0.003963312571877803	pos=>0.010936290476754007
+fight # n # 1
+fight
+battle, conflict, fight, engagement  
+-->neg
+Similarity Values: 
+neg=>0.0873478256671676	pos=>0.019703620675273634
+urge # v # 1
+urge
+urge, urge on, press, exhort  
+-->pos
+Similarity Values: 
+neg=>0.0048396307372278536	pos=>0.014120464265947888
+boost # v # 1
+boost
+hike, hike up, boost  
+-->neg
+Similarity Values: 
+neg=>0.0048463584028437265	pos=>0.002070828051918851
+clash # n # 1
+clash
+clang, clangor, clangour, clangoring, clank, clash, crash  
+-->neg
+Similarity Values: 
+neg=>0.01144881842687486	pos=>0.005082926424025574
+row # n # 1
+row
+row  
+-->neg
+Similarity Values: 
+neg=>0.0011963825898542474	pos=>9.575726353650499E-4
+spark # v # 1
+spark
+trip, actuate, trigger, activate, set off, spark off, spark, trigger off, touch off  
+-->pos
+Similarity Values: 
+neg=>0.003963312571877803	pos=>0.010936290476754006
+boom # n # 1
+boom
+boom, roar, roaring, thunder  
+-->pos
+Similarity Values: 
+neg=>0.0018445128323312842	pos=>0.007819211315935803
+duel # n # 1
+duel
+duel, affaire d'honneur  
+-->pos
+Similarity Values: 
+neg=>0.003049199655695517	pos=>0.0034837403782925444
+victorious # a # 1
+victorious
+victorious, winning  
+-->pos
+Similarity Values: 
+neg=>0.014243848190571872	pos=>0.04951936382466573
+alert # n # 1
+alert
+alert, qui vive  
+-->pos
+Similarity Values: 
+neg=>1.9311924984542146E-4	pos=>0.015354347185406885
+support # v # 1
+support
+support, back up  
+-->neg
+Similarity Values: 
+neg=>0.06128751859284924	pos=>0.01955053075503511
+lead # n # 1
+lead
+lead  
+-->pos
+Similarity Values: 
+neg=>4.0236479439547285E-4	pos=>0.001080403987806009
+bid # n # 1
+bid
+command, bid, bidding, dictation  
+-->neg
+Similarity Values: 
+neg=>0.08322218694052703	pos=>0.025415281760577814
+force # v # 1
+force
+coerce, hale, squeeze, pressure, force  
+-->neg
+Similarity Values: 
+neg=>0.022576636574556098	pos=>0.004360107142175184
+lead # n # 1
+lead
+lead  
+-->pos
+Similarity Values: 
+neg=>4.0236479439547285E-4	pos=>0.001080403987806009
+battle # n # 1
+battle
+battle, conflict, fight, engagement  
+-->neg
+Similarity Values: 
+neg=>0.09049134871199892	pos=>0.020419386900961164
+sectarianism # n # 1
+sectarianism
+sectarianism, denominationalism  
+-->neg
+Similarity Values: 
+neg=>0.03456104424615763	pos=>0.023322007364301615
+speed # v # 1
+speed
+rush, hotfoot, hasten, hie, speed, race, pelt along, rush along, cannonball along, bucket along, belt along, step on it  
+-->neg
+Similarity Values: 
+neg=>0.010658508548247816	pos=>0.0056374569441271435
+force # v # 1
+force
+coerce, hale, squeeze, pressure, force  
+-->neg
+Similarity Values: 
+neg=>0.022576636574556098	pos=>0.004360107142175186
+dispute # n # 1
+dispute
+dispute, difference, difference of opinion, conflict  
+-->pos
+Similarity Values: 
+neg=>0.08093332190785761	pos=>0.08841305700905279
+trend # n # 1
+trend
+tendency, trend  
+-->pos
+Similarity Values: 
+neg=>0.002473948380524888	pos=>0.014914639470210461
+death # n # 1
+death
+death, decease, expiry  
+-->neg
+Similarity Values: 
+neg=>0.02245279637972939	pos=>0.001355820899973755
+drop # n # 1
+drop
+drop, bead, pearl  
+-->pos
+Similarity Values: 
+neg=>7.847759406272205E-4	pos=>8.402150371503459E-4
+giant # a # 1
+giant
+elephantine, gargantuan, giant, jumbo  
+-->neg
+Similarity Values: 
+neg=>0.006944563081981898	pos=>0.0027807131008361105
+target # n # 1
+target
+target, mark  
+-->pos
+Similarity Values: 
+neg=>0.0033297332827958845	pos=>0.0036346891871293337
+miss # v # 1
+miss
+miss, lose  
+-->neg
+Similarity Values: 
+neg=>0.014632016490075233	pos=>0.0049033097339944995
+speak # v # 1
+speak
+talk, speak, utter, mouth, verbalize, verbalise  
+-->neg
+Similarity Values: 
+neg=>0.016845569113428875	pos=>0.016721197636125517
+softly # r # 1
+softly
+softly, quietly  
+-->pos
+Similarity Values: 
+neg=>0.006156864347353246	pos=>0.06883661436297826
+lead # n # 1
+lead
+lead  
+-->pos
+Similarity Values: 
+neg=>4.0236479439547285E-4	pos=>0.001080403987806009
+stretch # v # 1
+stretch
+stretch, stretch along  
+-->pos
+Similarity Values: 
+neg=>0.0037764133644641396	pos=>0.006592975438890952
+crown # n # 1
+crown
+Crown  
+-->neg
+Similarity Values: 
+neg=>9.953917906318295E-4	pos=>1.857548682060753E-4
+move # n # 1
+move
+move  
+-->neg
+Similarity Values: 
+neg=>0.016070634862264874	pos=>0.003051144361470969
+fight # v # 1
+fight
+contend, fight, struggle  
+-->neg
+Similarity Values: 
+neg=>0.14007216732374494	pos=>0.01198235318339848
+fear # n # 1
+fear
+fear, fearfulness, fright  
+-->pos
+Similarity Values: 
+neg=>0.046079279089640914	pos=>0.04769251797513411
+ease # v # 1
+ease
+ease  
+-->neg
+Similarity Values: 
+neg=>0.00363081491785842	pos=>0.002926489833538208
+bowl_over # v # 1
+bowl_over
+overturn, tip over, turn over, upset, knock over, bowl over, tump over  
+-->neg
+Similarity Values: 
+neg=>0.04083982061544281	pos=>0.02343325669368784
+attack # n # 1
+attack
+attack, onslaught, onset, onrush  
+-->neg
+Similarity Values: 
+neg=>0.12301762081160789	pos=>0.02134037569276843
+fight # n # 1
+fight
+battle, conflict, fight, engagement  
+-->neg
+Similarity Values: 
+neg=>0.08734782566716759	pos=>0.019703620675273634
+price # n # 1
+price
+monetary value, price, cost  
+-->pos
+Similarity Values: 
+neg=>0.025991051341234004	pos=>0.05388234877918217
+cut # v # 1
+cut
+cut  
+-->neg
+Similarity Values: 
+neg=>0.015951767864723302	pos=>0.01244844425974565
+promise # n # 1
+promise
+promise  
+-->pos
+Similarity Values: 
+neg=>8.61661868621736E-4	pos=>0.026252837808494196
+fight # v # 1
+fight
+contend, fight, struggle  
+-->neg
+Similarity Values: 
+neg=>0.14007216732374494	pos=>0.01198235318339848
+fear # v # 1
+fear
+fear  
+-->neg
+Similarity Values: 
+neg=>0.039113995245350745	pos=>0.007799166286974628
+unruly # a # 1
+unruly
+boisterous, rambunctious, robustious, rumbustious, unruly  
+-->neg
+Similarity Values: 
+neg=>0.010747233088677423	pos=>0.008452634639446687
+purge # v # 1
+purge
+purge  
+-->pos
+Similarity Values: 
+neg=>2.714704883541353E-4	pos=>0.006865499928896541
+head # v # 1
+head
+head  
+-->pos
+Similarity Values: 
+neg=>0.0013076855817852869	pos=>0.008104795310577492
+revive # v # 1
+revive
+resuscitate, revive  
+-->pos
+Similarity Values: 
+neg=>0.0020493422773938804	pos=>0.0034237364165527174
+seize # v # 1
+seize
+seize, prehend, clutch  
+-->neg
+Similarity Values: 
+neg=>0.058071856282334154	pos=>0.04593943603931725
+congestion # n # 1
+congestion
+congestion  
+-->neg
+Similarity Values: 
+neg=>0.01858904700596619	pos=>0.01531637811578778
+charge # n # 1
+charge
+charge  
+-->pos
+Similarity Values: 
+neg=>0.03950817391124791	pos=>0.05398000490260918
+congestion # n # 1
+congestion
+congestion  
+-->neg
+Similarity Values: 
+neg=>0.01858904700596619	pos=>0.01531637811578778
+greet # v # 1
+greet
+greet, recognize, recognise  
+-->pos
+Similarity Values: 
+neg=>0.0015314436731567436	pos=>0.15350246158299408
+move # v # 1
+move
+travel, go, move, locomote  
+-->pos
+Similarity Values: 
+neg=>0.0014766395943948535	pos=>0.011822369698885515
+smooth_over # v # 1
+smooth_over
+gloss over, skate over, smooth over, slur over, skimp over  
+-->pos
+Similarity Values: 
+neg=>0.013788435448994203	pos=>0.04030517680133543
+root # n # 1
+root
+root  
+-->neg
+Similarity Values: 
+neg=>0.044338989504000524	pos=>0.0
+breakthrough # n # 1
+breakthrough
+discovery, breakthrough, find  
+-->pos
+Similarity Values: 
+neg=>0.016076590861022803	pos=>0.01853765623075637
+hope # v # 1
+hope
+hope, trust, desire  
+-->pos
+Similarity Values: 
+neg=>0.006234136833559135	pos=>0.05244356761345549
+cancer # n # 1
+cancer
+cancer, malignant neoplastic disease  
+-->neg
+Similarity Values: 
+neg=>0.10434585464250658	pos=>0.006976075211541603
+stop # v # 1
+stop
+stop, halt  
+-->neg
+Similarity Values: 
+neg=>0.046140408440950485	pos=>0.00308174624903411
+lay_off # v # 1
+lay_off
+discontinue, stop, cease, give up, quit, lay off  
+-->neg
+Similarity Values: 
+neg=>0.040294905541992075	pos=>0.027242961411447532
+lay_off # v # 1
+lay_off
+discontinue, stop, cease, give up, quit, lay off  
+-->neg
+Similarity Values: 
+neg=>0.040294905541992075	pos=>0.027242961411447532
+hope # v # 1
+hope
+hope, trust, desire  
+-->pos
+Similarity Values: 
+neg=>0.006234136833559134	pos=>0.05244356761345548
+failure # n # 1
+failure
+failure  
+-->neg
+Similarity Values: 
+neg=>0.23020077898217256	pos=>0.13300767121004445
+help # v # 1
+help
+help, assist, aid  
+-->pos
+Similarity Values: 
+neg=>0.0019270390629367784	pos=>0.033178541407299304
+move # n # 1
+move
+move  
+-->neg
+Similarity Values: 
+neg=>0.016070634862264874	pos=>0.003051144361470969
+on_the_spot # r # 1
+on_the_spot
+on the spot  
+-->neg
+Similarity Values: 
+neg=>0.1551411705459495	pos=>0.007928888280596518
+sentence # n # 1
+sentence
+sentence  
+-->pos
+Similarity Values: 
+neg=>0.0022391453940858144	pos=>0.0664771345753821
+unveil # v # 1
+unveil
+unveil  
+-->neg
+Similarity Values: 
+neg=>0.0	pos=>0.0
+unveil # v # 1
+unveil
+unveil  
+-->neg
+Similarity Values: 
+neg=>0.0	pos=>0.0
+damage # n # 1
+damage
+damage, harm, impairment  
+-->pos
+Similarity Values: 
+neg=>0.03162622451364799	pos=>0.03466762781468268
+revel # v # 1
+revel
+delight, enjoy, revel  
+-->pos
+Similarity Values: 
+neg=>0.012211042429178035	pos=>0.061026674665501886
+upset # v # 1
+upset
+upset  
+-->neg
+Similarity Values: 
+neg=>0.08942269321792495	pos=>3.120681785862064E-4
+cool # a # 1
+cool
+cool (vs. warm)  
+-->neg
+Similarity Values: 
+neg=>0.012252927695565045	pos=>0.010415555999964727
+release # v # 1
+release
+let go of, let go, release, relinquish  
+-->pos
+Similarity Values: 
+neg=>0.01437859675399524	pos=>0.04141102730362439
+turn_in # v # 1
+turn_in
+turn in  
+-->pos
+Similarity Values: 
+neg=>0.00925832404944547	pos=>0.027092261923473884
+action # n # 1
+action
+action  
+-->pos
+Similarity Values: 
+neg=>0.015271381658258974	pos=>0.020728974301002952
+blast # v # 1
+blast
+blast, blare  
+-->neg
+Similarity Values: 
+neg=>0.0021783654842356696	pos=>7.299734256017552E-5
+make_up # v # 1
+make_up
+constitute, represent, make up, comprise, be  
+-->pos
+Similarity Values: 
+neg=>0.02883733775709247	pos=>0.033673114088449085
+ahead # r # 1
+ahead
+ahead, in front, before  
+-->pos
+Similarity Values: 
+neg=>0.009335446298159227	pos=>0.07217248832191953
+claim # v # 1
+claim
+claim  
+-->pos
+Similarity Values: 
+neg=>0.0	pos=>0.006241363571724129
+attack # n # 1
+attack
+attack, onslaught, onset, onrush  
+-->neg
+Similarity Values: 
+neg=>0.12301762081160789	pos=>0.02134037569276843
+rev_up # v # 1
+rev_up
+rev up, step up  
+-->pos
+Similarity Values: 
+neg=>0.0017839810505578526	pos=>0.009116659525991477
+hinder # v # 1
+hinder
+impede, hinder  
+-->neg
+Similarity Values: 
+neg=>0.031323901963480956	pos=>0.03033494535227011
+protest # v # 1
+protest
+protest  
+-->neg
+Similarity Values: 
+neg=>0.01731003786343393	pos=>0.006757080966343977
+frustration # n # 1
+frustration
+frustration, defeat  
+-->neg
+Similarity Values: 
+neg=>0.18043988856268137	pos=>0.01002306584656708
+stall # v # 1
+stall
+procrastinate, stall, drag one's feet, drag one's heels, shillyshally, dilly-dally, dillydally  
+-->pos
+Similarity Values: 
+neg=>0.012623340266067616	pos=>0.015370095386924678
+rise # v # 1
+rise
+rise, lift, arise, move up, go up, come up, uprise  
+-->pos
+Similarity Values: 
+neg=>0.0038385044298164172	pos=>0.007409987699039007
+duty # n # 1
+duty
+duty, responsibility, obligation  
+-->pos
+Similarity Values: 
+neg=>0.17594481859095584	pos=>0.20612633611531858
+battle # n # 1
+battle
+battle, conflict, fight, engagement  
+-->neg
+Similarity Values: 
+neg=>0.09049134871199892	pos=>0.02041938690096116
+help # v # 1
+help
+help, assist, aid  
+-->pos
+Similarity Values: 
+neg=>0.0019270390629367784	pos=>0.0331785414072993
+profit # n # 1
+profit
+net income, net, net profit, lucre, profit, profits, earnings  
+-->pos
+Similarity Values: 
+neg=>0.0075664770490600575	pos=>0.021651941321793235
+rise # v # 1
+rise
+rise, lift, arise, move up, go up, come up, uprise  
+-->pos
+Similarity Values: 
+neg=>0.0038385044298164172	pos=>0.007409987699039007
+reign # v # 1
+reign
+reign  
+-->neg
+Similarity Values: 
+neg=>0.0020476631121569065	pos=>0.0
+rule # v # 1
+rule
+govern, rule  
+-->pos
+Similarity Values: 
+neg=>8.194847378816169E-4	pos=>0.010838698290542929
+rally # v # 1
+rally
+beat up, drum up, rally  
+-->pos
+Similarity Values: 
+neg=>0.012023226099660292	pos=>0.015155262152649961
+go_down # v # 1
+go_down
+descend, fall, go down, come down  
+-->neg
+Similarity Values: 
+neg=>0.009890458816365097	pos=>0.003115903549645468
+run # v # 1
+run
+run  
+-->neg
+Similarity Values: 
+neg=>0.01495478237317809	pos=>0.0
+come # v # 1
+come
+come, come up  
+-->pos
+Similarity Values: 
+neg=>0.0020828201012979973	pos=>0.004819605641366995
+stop # v # 1
+stop
+stop, halt  
+-->neg
+Similarity Values: 
+neg=>0.046140408440950485	pos=>0.00308174624903411
+bid # n # 1
+bid
+command, bid, bidding, dictation  
+-->neg
+Similarity Values: 
+neg=>0.08322218694052702	pos=>0.025415281760577814
+nap # n # 1
+nap
+sleep, nap  
+-->neg
+Similarity Values: 
+neg=>0.0	pos=>0.0
+good_for_you # a # 1
+good_for_you
+healthy, salubrious, good for you(predicate)  
+-->pos
+Similarity Values: 
+neg=>0.030744105073371032	pos=>0.07545309583882341
+lag # v # 1
+lag
+lag, dawdle, fall back, fall behind  
+-->neg
+Similarity Values: 
+neg=>0.008466311960481858	pos=>0.0026079193041940387
+confusion # n # 1
+confusion
+confusion  
+-->neg
+Similarity Values: 
+neg=>0.07255176175702936	pos=>0.006489248302258799
+charge # n # 1
+charge
+charge  
+-->pos
+Similarity Values: 
+neg=>0.03950817391124791	pos=>0.05398000490260918
+cause # v # 1
+cause
+cause, do, make  
+-->pos
+Similarity Values: 
+neg=>0.0010478439206914423	pos=>0.0012309550889126276
+poise # v # 1
+poise
+poise  
+-->neg
+Similarity Values: 
+neg=>0.001309726040305039	pos=>2.836983441692786E-4
+ban # v # 1
+ban
+ban, censor  
+-->neg
+Similarity Values: 
+neg=>0.014923284228141659	pos=>1.9800868945921846E-4
+blast # n # 1
+blast
+blast  
+-->pos
+Similarity Values: 
+neg=>1.3271890541757724E-4	pos=>1.6003496337754176E-4
+mean # a # 1
+mean
+average, mean(prenominal)  
+-->pos
+Similarity Values: 
+neg=>0.026008697600662028	pos=>0.027190888367427748
+snub # v # 1
+snub
+ignore, disregard, snub, cut  
+-->neg
+Similarity Values: 
+neg=>0.01014974280426406	pos=>0.0032462451578378995
+win # n # 1
+win
+win  
+-->pos
+Similarity Values: 
+neg=>0.0013293139887269414	pos=>0.01244844425974565
+snatch # v # 1
+snatch
+snatch, snatch up, snap  
+-->neg
+Similarity Values: 
+neg=>0.0	pos=>0.0
+help # v # 1
+help
+help, assist, aid  
+-->pos
+Similarity Values: 
+neg=>0.0019270390629367784	pos=>0.0331785414072993
+grow # v # 1
+grow
+turn, grow  
+-->pos
+Similarity Values: 
+neg=>5.265832678323912E-4	pos=>0.011204114605148129
+risk # n # 1
+risk
+hazard, jeopardy, peril, risk, endangerment  
+-->neg
+Similarity Values: 
+neg=>0.02319824192778677	pos=>0.012951890998876631
+cut # v # 1
+cut
+cut  
+-->neg
+Similarity Values: 
+neg=>0.015951767864723302	pos=>0.01244844425974565
+way # n # 1
+way
+manner, mode, style, way, fashion  
+-->pos
+Similarity Values: 
+neg=>0.002818908297884193	pos=>0.01756404327659072
+fight # v # 1
+fight
+contend, fight, struggle  
+-->neg
+Similarity Values: 
+neg=>0.14007216732374494	pos=>0.01198235318339848
+drive # v # 1
+drive
+drive  
+-->neg
+Similarity Values: 
+neg=>0.05497963569438832	pos=>0.017973991622123698
+risk # n # 1
+risk
+hazard, jeopardy, peril, risk, endangerment  
+-->neg
+Similarity Values: 
+neg=>0.02319824192778677	pos=>0.012951890998876633
+cut # v # 1
+cut
+cut  
+-->neg
+Similarity Values: 
+neg=>0.015951767864723302	pos=>0.01244844425974565
+hit # v # 1
+hit
+hit  
+-->neg
+Similarity Values: 
+neg=>0.011963825898542474	pos=>0.0
+mark # v # 1
+mark
+tag, label, mark  
+-->pos
+Similarity Values: 
+neg=>6.001546239404994E-4	pos=>0.005365678818522167
+skate # v # 1
+skate
+skate  
+-->neg
+Similarity Values: 
+neg=>0.011366947083875962	pos=>5.0333577191323613E-5
+single_out # v # 1
+single_out
+single out  
+-->pos
+Similarity Values: 
+neg=>0.010471204837009593	pos=>0.03484498034310102
+expose # v # 1
+expose
+expose  
+-->pos
+Similarity Values: 
+neg=>0.02928427729535636	pos=>0.07451876879783835
+woo # v # 1
+woo
+woo, court  
+-->pos
+Similarity Values: 
+neg=>0.003287604675003173	pos=>0.003945372743076124
+talk # n # 1
+talk
+talk, talking  
+-->pos
+Similarity Values: 
+neg=>0.01099075294346039	pos=>0.011650292926148383
+stall # v # 1
+stall
+procrastinate, stall, drag one's feet, drag one's heels, shillyshally, dilly-dally, dillydally  
+-->pos
+Similarity Values: 
+neg=>0.012623340266067618	pos=>0.015370095386924678
+gap # n # 1
+gap
+gap, spread  
+-->neg
+Similarity Values: 
+neg=>0.009218149888935318	pos=>4.2430433455546815E-4
+wide # a # 1
+wide
+wide (vs. narrow), broad  
+-->neg
+Similarity Values: 
+neg=>0.04511397622728908	pos=>0.0044175005491076695
+chaos # n # 1
+chaos
+chaos, pandemonium, bedlam, topsy-turvydom, topsy-turvyness  
+-->neg
+Similarity Values: 
+neg=>0.0050505064918154735	pos=>0.001532760433557876
+hit # v # 1
+hit
+hit  
+-->neg
+Similarity Values: 
+neg=>0.011963825898542474	pos=>0.0
+force # n # 1
+force
+force  
+-->neg
+Similarity Values: 
+neg=>0.0274125916921749	pos=>0.011543511718763055
+foster # v # 1
+foster
+foster, further  
+-->pos
+Similarity Values: 
+neg=>0.0036620330536117837	pos=>0.04672965726666208
+ambition # n # 1
+ambition
+ambition, aspiration, dream  
+-->neg
+Similarity Values: 
+neg=>0.023225382401810376	pos=>0.005442175988725418
+ring # v # 1
+ring
+ring, peal  
+-->pos
+Similarity Values: 
+neg=>0.0019215545911059333	pos=>0.011252701047297323
+debate # n # 1
+debate
+argument, argumentation, debate  
+-->pos
+Similarity Values: 
+neg=>0.03065868970244644	pos=>0.09245322492668963
+spark # v # 1
+spark
+trip, actuate, trigger, activate, set off, spark off, spark, trigger off, touch off  
+-->pos
+Similarity Values: 
+neg=>0.003963312571877803	pos=>0.010936290476754007
+unveil # v # 1
+unveil
+unveil  
+-->neg
+Similarity Values: 
+neg=>0.0	pos=>0.0
+lock # v # 1
+lock
+lock  
+-->neg
+Similarity Values: 
+neg=>0.031060951288949923	pos=>0.0
+lean # a # 1
+lean
+thin (vs. fat), lean  
+-->neg
+Similarity Values: 
+neg=>0.012614130659065196	pos=>0.003850831992540841
+lethargic # a # 1
+lethargic
+lethargic (vs. energetic), unenrgetic  
+-->neg
+Similarity Values: 
+neg=>0.09991187242079738	pos=>0.0024317044055265197
+risk # n # 1
+risk
+hazard, jeopardy, peril, risk, endangerment  
+-->neg
+Similarity Values: 
+neg=>0.02319824192778677	pos=>0.012951890998876631
+cut # v # 1
+cut
+cut  
+-->neg
+Similarity Values: 
+neg=>0.015951767864723302	pos=>0.01244844425974565
+dull # a # 11
+dull
+dull, thudding  
+-->neg
+Similarity Values: 
+neg=>0.024468201028759316	pos=>0.013101396755721414
+record # n # 1
+record
+record  
+-->pos
+Similarity Values: 
+neg=>0.005099730236633661	pos=>0.014090973477339501
+fight # v # 1
+fight
+contend, fight, struggle  
+-->neg
+Similarity Values: 
+neg=>0.14007216732374494	pos=>0.01198235318339848
+blast # v # 1
+blast
+blast, blare  
+-->neg
+Similarity Values: 
+neg=>0.0021783654842356696	pos=>7.299734256017552E-5
+clear # v # 1
+clear
+unclutter, clear  
+-->neg
+Similarity Values: 
+neg=>0.03840730277155601	pos=>0.03806940401224086
+lead # v # 1
+lead
+lead, take, direct, conduct, guide  
+-->pos
+Similarity Values: 
+neg=>0.0015566374528238592	pos=>0.013285102535801178
+name # v # 1
+name
+name, call  
+-->pos
+Similarity Values: 
+neg=>0.0011741621245327715	pos=>0.026224310404841567
+drop # v # 1
+drop
+drop  
+-->neg
+Similarity Values: 
+neg=>0.0	pos=>0.0
+not # r # 1
+not
+not, non  
+-->neg
+Similarity Values: 
+neg=>3.060754598571446E-4	pos=>2.2701854577741087E-4
+call # n # 1
+call
+call, phone call, telephone call  
+-->pos
+Similarity Values: 
+neg=>0.0012714341823333267	pos=>0.016133709007325445
+claim # n # 1
+claim
+claim  
+-->pos
+Similarity Values: 
+neg=>0.0	pos=>0.006241363571724129
+promise # v # 1
+promise
+promise, assure  
+-->pos
+Similarity Values: 
+neg=>0.008425549027398702	pos=>0.025679300316015997
+hope # n # 1
+hope
+hope  
+-->neg
+Similarity Values: 
+neg=>0.0	pos=>0.0
+beauty # n # 1
+beauty
+beauty  
+-->pos
+Similarity Values: 
+neg=>0.0	pos=>0.08391930161516793
+payback # n # 1
+payback
+payback  
+-->pos
+Similarity Values: 
+neg=>0.0022116679205990784	pos=>0.005914622777131283
+pay # v # 1
+pay
+pay  
+-->pos
+Similarity Values: 
+neg=>0.0	pos=>0.01244844425974565
+link # v # 1
+link
+associate, tie in, relate, link, colligate, link up, connect  
+-->pos
+Similarity Values: 
+neg=>0.009022666010056803	pos=>0.018058544486962744
+slash # v # 1
+slash
+slash, cut down  
+-->neg
+Similarity Values: 
+neg=>0.009658647890537542	pos=>7.430194728243012E-5
+abuse # n # 1
+abuse
+maltreatment, ill-treatment, ill-usage, abuse  
+-->pos
+Similarity Values: 
+neg=>0.008535980485136294	pos=>0.03597772629724377
+breakthrough # n # 1
+breakthrough
+discovery, breakthrough, find  
+-->pos
+Similarity Values: 
+neg=>0.016076590861022803	pos=>0.018537656230756372
+set # v # 1
+set
+put, set, place, pose, position, lay  
+-->pos
+Similarity Values: 
+neg=>0.0020722320820952484	pos=>0.005223995893100336
+record # n # 1
+record
+record  
+-->pos
+Similarity Values: 
+neg=>0.005099730236633661	pos=>0.014090973477339501
+scare # n # 1
+scare
+panic, scare  
+-->neg
+Similarity Values: 
+neg=>0.03290831949131346	pos=>0.004435038675378873
+fad # n # 1
+fad
+fad, craze, furor, furore, cult, rage  
+-->neg
+Similarity Values: 
+neg=>0.00927898870511668	pos=>0.0033789500269936395
+risk # n # 1
+risk
+hazard, jeopardy, peril, risk, endangerment  
+-->neg
+Similarity Values: 
+neg=>0.023198241927786765	pos=>0.012951890998876633
+cut # v # 1
+cut
+cut  
+-->neg
+Similarity Values: 
+neg=>0.015951767864723302	pos=>0.01244844425974565
+trump # v # 1
+trump
+trump  
+-->neg
+Similarity Values: 
+neg=>0.0011944701487581954	pos=>0.0
+hang_on # v # 1
+hang_on
+append, tag on, tack on, tack, hang on  
+-->pos
+Similarity Values: 
+neg=>0.011592868457913609	pos=>0.019246674092577465
+seize # v # 1
+seize
+seize, prehend, clutch  
+-->neg
+Similarity Values: 
+neg=>0.058071856282334154	pos=>0.04593943603931725
+revealing # a # 1
+revealing
+revealing, telling, telltale(prenominal)  
+-->neg
+Similarity Values: 
+neg=>0.04700240081456682	pos=>0.019185404875589927
+erupt # v # 1
+erupt
+erupt, break out  
+-->neg
+Similarity Values: 
+neg=>0.03533503490469086	pos=>0.008476588512642057
+miss # v # 1
+miss
+miss, lose  
+-->neg
+Similarity Values: 
+neg=>0.014632016490075233	pos=>0.0049033097339944995

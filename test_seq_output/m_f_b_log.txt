@@ -1,0 +1,473 @@
+ID is: 1292
+Word is: : slam#
+1292:slam:3
+neg
+ID is: 1195
+Word is: : driving_force#
+1195:driving_force:1
+pos
+ID is: 689
+Word is: : terror#
+689:terror:1
+neg
+ID is: 1297
+Word is: : cut_through#
+1297:cut_through:3
+neg
+ID is: 1319
+Word is: : soar#
+1319:soar:2
+ID is: 1319
+Word is: : fail#
+1319:fail:6
+neg
+ID is: 1108
+Word is: : puzzle#
+1108:puzzle:1
+pos
+ID is: 684
+Word is: : magnet#
+684:magnet:1
+pos
+ID is: 1105
+Word is: : health#
+1105:health:0
+ID is: 1105
+Word is: : hot_issue#
+1105:hot_issue:0
+pos
+ID is: 1100
+Word is: : harm#
+1100:harm:3
+neg
+ID is: 1310
+Word is: : debate#
+1310:debate:0
+ID is: 1310
+Word is: : heated#
+1310:heated:8
+ID is: 1310
+Word is: : stir#
+1310:stir:4
+neg
+ID is: 746
+Word is: : lead#
+746:lead:1
+pos
+ID is: 889
+Word is: : chaos#
+889:chaos:1
+neg
+ID is: 740
+Word is: : attack#
+740:attack:3
+neg
+ID is: 884
+Word is: : cutting_edge#
+884:cutting_edge:1
+pos
+ID is: 885
+Word is: : descend#
+885:descend:2
+neg
+ID is: 744
+Word is: : infection#
+744:infection:0
+ID is: 744
+Word is: : block#
+744:block:6
+ID is: 744
+Word is: : halt#
+744:halt:6
+neg
+ID is: 742
+Word is: : force#
+742:force:3
+neg
+ID is: 677
+Word is: : suffer#
+677:suffer:3
+neg
+ID is: 1422
+Word is: : colt#
+1422:colt:0
+ID is: 1422
+Word is: : wild#
+1422:wild:8
+neg
+ID is: 1425
+Word is: : pot#
+1425:pot:0
+ID is: 1425
+Word is: : gold#
+1425:gold:0
+ID is: 1425
+Word is: : not#
+1425:not:6
+neg
+ID is: 1428
+Word is: : dream#
+1428:dream:1
+pos
+ID is: 540
+Word is: : way#
+540:way:0
+pos
+ID is: 929
+Word is: : bonus#
+929:bonus:0
+ID is: 929
+Word is: : management#
+929:management:0
+ID is: 929
+Word is: : cut#
+929:cut:6
+ID is: 929
+Word is: : trim#
+929:trim:6
+neg
+ID is: 541
+Word is: : free#
+541:free:9
+neg
+ID is: 544
+Word is: : bombing#
+544:bombing:1
+neg
+ID is: 738
+Word is: : attack#
+738:attack:3
+neg
+ID is: 877
+Word is: : nuke#
+877:nuke:1
+ID is: 877
+Word is: : dismantle#
+877:dismantle:6
+pos
+ID is: 1493
+Word is: : escape#
+1493:escape:3
+pos
+ID is: 732
+Word is: : strike#
+732:strike:3
+neg
+ID is: 1457
+Word is: : helm#
+1457:helm:1
+pos
+ID is: 825
+Word is: : hit#
+825:hit:3
+ID is: 825
+Word is: : high#
+825:high:0
+pos
+ID is: 927
+Word is: : turn-on#
+927:turn-on:1
+pos
+ID is: 925
+Word is: : beget#
+925:beget:2
+neg
+ID is: 513
+Word is: : hero#
+513:hero:0
+pos
+ID is: 728
+Word is: : lead#
+728:lead:2
+pos
+ID is: 1132
+Word is: : hit#
+1132:hit:3
+pos
+ID is: 621
+Word is: : hit#
+621:hit:3
+neg
+ID is: 919
+Word is: : dig#
+919:dig:2
+pos
+ID is: 624
+Word is: : cripple#
+624:cripple:3
+neg
+ID is: 819
+Word is: : disaster#
+819:disaster:1
+neg
+ID is: 812
+Word is: : split#
+812:split:1
+neg
+ID is: 813
+Word is: : hit#
+813:hit:3
+neg
+ID is: 596
+Word is: : lock#
+596:lock:3
+pos
+ID is: 799
+Word is: : halt#
+799:halt:6
+neg
+ID is: 914
+Word is: : chaos#
+914:chaos:1
+neg
+ID is: 797
+Word is: : strip#
+797:strip:3
+neg
+ID is: 917
+Word is: : chaos#
+917:chaos:1
+neg
+ID is: 790
+Word is: : fear#
+790:fear:0
+ID is: 790
+Word is: : shackle#
+790:shackle:3
+neg
+ID is: 524
+Word is: : set#
+524:set:3
+ID is: 524
+Word is: : record#
+524:record:0
+pos
+ID is: 617
+Word is: : wiggle#
+617:wiggle:3
+pos
+ID is: 690
+Word is: : mess#
+690:mess:1
+neg
+ID is: 782
+Word is: : detain#
+782:detain:3
+neg
+ID is: 783
+Word is: : award#
+783:award:2
+pos
+ID is: 646
+Word is: : kill#
+646:kill:2
+neg
+ID is: 786
+Word is: : aftermath#
+786:aftermath:0
+ID is: 786
+Word is: : scandal#
+786:scandal:1
+neg
+ID is: 570
+Word is: : loom#
+570:loom:2
+neg
+ID is: 788
+Word is: : inflation#
+788:inflation:0
+ID is: 788
+Word is: : economy#
+788:economy:0
+ID is: 788
+Word is: : soar#
+788:soar:null
+ID is: 788
+Word is: : plunge#
+788:plunge:null
+neg
+ID is: 649
+Word is: : shine#
+649:shine:2
+pos
+ID is: 982
+Word is: : weigh#
+982:weigh:3
+pos
+ID is: 983
+Word is: : hit#
+983:hit:3
+neg
+ID is: 1054
+Word is: : comfort_zone#
+1054:comfort_zone:0
+pos
+ID is: 1052
+Word is: : rescue#
+1052:rescue:2
+pos
+ID is: 1349
+Word is: : boot#
+1349:boot:3
+pos
+ID is: 702
+Word is: : lead#
+702:lead:2
+pos
+ID is: 1152
+Word is: : haven#
+1152:haven:1
+pos
+ID is: 1347
+Word is: : scatter#
+1347:scatter:3
+neg
+ID is: 705
+Word is: : doomsday#
+705:doomsday:0
+neg
+ID is: 772
+Word is: : flock#
+772:flock:2
+pos
+ID is: 770
+Word is: : test#
+770:test:1
+ID is: 770
+Word is: : boast#
+770:boast:0
+neg
+ID is: 771
+Word is: : danger_zone#
+771:danger_zone:1
+neg
+ID is: 776
+Word is: : slam#
+776:slam:3
+neg
+ID is: 637
+Word is: : combat#
+637:combat:3
+pos
+ID is: 777
+Word is: : optimism#
+777:optimism:1
+ID is: 777
+Word is: : reach#
+777:reach:2
+ID is: 777
+Word is: : crossroad#
+777:crossroad:1
+ID is: 777
+Word is: : rare#
+777:rare:null
+pos
+ID is: 635
+Word is: : step#
+635:step:2
+pos
+ID is: 838
+Word is: : hit#
+838:hit:3
+pos
+ID is: 1037
+Word is: : shore_up#
+1037:shore_up:2
+pos
+ID is: 630
+Word is: : bombshell#
+630:bombshell:0
+pos
+ID is: 836
+Word is: : split#
+836:split:1
+neg
+ID is: 975
+Word is: : flu#
+975:flu:1
+ID is: 975
+Word is: : flare#
+975:flare:4
+neg
+ID is: 586
+Word is: : climb#
+586:climb:2
+ID is: 586
+Word is: : record#
+586:record:0
+pos
+ID is: 588
+Word is: : battle#
+588:battle:3
+pos
+ID is: 864
+Word is: : step#
+864:step:0
+pos
+ID is: 862
+Word is: : muscle#
+862:muscle:1
+ID is: 862
+Word is: : strengthen#
+862:strengthen:4
+neg
+ID is: 769
+Word is: : rock#
+769:rock:3
+pos
+ID is: 1227
+Word is: : pop_up#
+1227:pop_up:3
+pos
+ID is: 1030
+Word is: : key#
+1030:key:8
+pos
+ID is: 555
+Word is: : ban#
+555:ban:3
+neg
+ID is: 755
+Word is: : doomsday#
+755:doomsday:0
+neg
+ID is: 958
+Word is: : slam#
+958:slam:3
+neg
+ID is: 952
+Word is: : crown#
+952:crown:0
+pos
+ID is: 653
+Word is: : cool#
+653:cool:3
+pos
+ID is: 757
+Word is: : hit#
+757:hit:3
+neg
+ID is: 1203
+Word is: : open_door#
+1203:open_door:0
+pos
+ID is: 1206
+Word is: : surging#
+1206:surging:8
+pos
+ID is: 903
+Word is: : strike#
+903:strike:3
+neg
+ID is: 1207
+Word is: : slash#
+1207:slash:3
+neg
+ID is: 564
+Word is: : hit#
+564:hit:3
+pos
+ID is: 901
+Word is: : align#
+901:align:3
+neg

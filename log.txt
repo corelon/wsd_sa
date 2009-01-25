@@ -1,0 +1,534 @@
+: hang_on#
+1475:hang_on:2:pos
+: collapse#
+806:collapse:1:neg
+: catch#
+806:catch:3:neg
+: fight#
+1003:fight:3:neg
+: revealing#
+1477:revealing:7:neg
+: mark#
+1290:mark:2:pos
+: seize#
+1476:seize:3:neg
+: promise#
+1002:promise:0:pos
+: go#
+802:go:2:pos
+: slow#
+802:slow:8:pos
+: speak#
+941:speak:2:pos
+: softly#
+941:softly:9:pos
+: frustration#
+1191:frustration:1:neg
+: stall#
+1191:stall:2:pos
+: rise#
+1191:rise:4
+: claim#
+1413:claim:0:pos
+: work#
+800:work:3:neg
+: booming#
+685:booming:8:pos
+: cancer#
+1091:cancer:1:neg
+: stop#
+1091:stop:6
+: call#
+1412:call:0:pos
+: skate#
+1295:skate:3:neg
+: single_out#
+1295:single_out:3:neg
+: fear#
+1006:fear:3:neg
+: giant#
+945:giant:7:neg
+: target#
+945:target:3:neg
+: miss#
+945:miss:3:neg
+: lay_off#
+1095:lay_off:3:neg
+: blast#
+1391:blast:2:pos
+: expose#
+1312:expose:3:neg
+: lay_off#
+1096:lay_off:3:neg
+: lead#
+947:lead:1:neg
+: stretch#
+947:stretch:4
+: light#
+748:light:2:pos
+: hit#
+1289:hit:3:neg
+: risk#
+1288:risk:1:neg
+: cut#
+1288:cut:6
+: force#
+887:force:3:neg
+: erupt#
+1481:erupt:3:neg
+: mistrial#
+602:mistrial:0:pos
+: protest#
+1187:protest:2:pos
+: strike#
+676:strike:1:neg
+: violent#
+676:violent:7:neg
+: halt#
+676:halt:6
+: miss#
+1485:miss:3:neg
+: fight#
+1283:fight:3:neg
+: drive#
+1284:drive:2:pos
+: hinder#
+1182:hinder:3:neg
+: attack#
+1181:attack:1:neg
+: rev_up#
+1181:rev_up:4
+: trend#
+930:trend:0:pos
+: death#
+930:death:1:neg
+: drop#
+930:drop:6
+: push#
+671:push:1:neg
+: breakthrough#
+1081:breakthrough:1:neg
+: hope#
+1081:hope:2:pos
+: talk#
+1320:talk:1:neg
+: stall#
+1320:stall:2:pos
+: fight#
+1380:fight:3:neg
+: woo#
+1322:woo:2:pos
+: hand#
+542:hand:2:pos
+: draw#
+542:draw:1:neg
+: tough#
+542:tough:7:neg
+: root#
+1079:root:0:pos
+: bid#
+879:bid:1:neg
+: record#
+1375:record:0:pos
+: clash#
+548:clash:1:neg
+: block#
+670:block:3:neg
+: lead#
+876:lead:1:neg
+: support#
+873:support:3:neg
+: claim#
+1178:claim:2:pos
+: pay#
+1437:pay:2:pos
+: way#
+1274:way:0:pos
+: keep_open#
+824:keep_open:2:pos
+: payback#
+1435:payback:0:pos
+: risk#
+1272:risk:1:neg
+: cut#
+1272:cut:6
+: beauty#
+1434:beauty:0:pos
+: scare#
+1453:scare:1:neg
+: promise#
+1433:promise:2:pos
+: hope#
+1433:hope:0:pos
+: charge#
+1075:charge:1:neg
+: congestion#
+1075:congestion:1:neg
+: greet#
+1075:greet:6
+: move#
+1125:move:1:neg
+: no#
+1125:no:6
+: congestion#
+1074:congestion:1:neg
+: move#
+1077:move:2:pos
+: smooth_over#
+1077:smooth_over:2:pos
+: sentence#
+1129:sentence:0:pos
+: link#
+1439:link:2:pos
+: on_the_spot#
+1126:on_the_spot:10:neg
+: fade#
+727:fade:3:neg
+: unveil#
+1131:unveil:2:pos
+: home#
+622:home:0:pos
+: facelift#
+627:facelift:0:pos
+: slash#
+1440:slash:3:neg
+: boost#
+519:boost:2:pos
+: star#
+625:star:2:pos
+: cripple#
+624:cripple:3:neg
+: grow#
+1267:grow:2:pos
+: win#
+1265:win:0:pos
+: snatch#
+1265:snatch:3:neg
+: help#
+1265:help:6
+: set#
+1445:set:3:neg
+: record#
+1445:record:0:pos
+: mean#
+1263:mean:7:neg
+: buy#
+694:buy:2:pos
+: fail#
+694:fail:6
+: snub#
+1264:snub:3:neg
+: keep#
+814:keep:2:pos
+: calm#
+814:calm:8:pos
+: breakthrough#
+1442:breakthrough:1:neg
+: risk#
+1465:risk:1:neg
+: cut#
+1465:cut:6
+: abuse#
+1441:abuse:0:pos
+: fad#
+1463:fad:1:neg
+: fear#
+697:fear:0:pos
+: spark#
+697:spark:4
+: hope#
+1113:hope:2:pos
+: failure#
+1115:failure:0:pos
+: help#
+1115:help:6
+: force#
+910:force:3:neg
+: seize#
+1062:seize:3:neg
+: dispute#
+912:dispute:1:neg
+: lead#
+810:lead:2:pos
+: clear#
+1398:clear:3:neg
+: outrage#
+716:outrage:1:neg
+: spur#
+716:spur:4
+: plot#
+521:plot:2:pos
+: censure#
+521:censure:1:neg
+: try#
+719:try:3:neg
+: price#
+995:price:0:pos
+: cut#
+995:cut:6
+: sectarianism#
+908:sectarianism:1:neg
+: speed#
+908:speed:4
+: fight#
+992:fight:1:neg
+: start#
+612:start:1:neg
+: ragged#
+612:ragged:7:neg
+: overcome#
+612:overcome:6
+: breakthrough#
+611:breakthrough:1:neg
+: hail#
+614:hail:3:neg
+: lead#
+894:lead:1:neg
+: trump#
+1471:trump:2:pos
+: bid#
+525:bid:1:neg
+: boost#
+525:boost:2:pos
+: battle#
+898:battle:1:neg
+: blast#
+1257:blast:1:neg
+: fight#
+619:fight:3:neg
+: award#
+783:award:2:pos
+: fight#
+840:fight:1:neg
+: aftermath#
+786:aftermath:0:pos
+: scandal#
+786:scandal:1:neg
+: upset#
+1144:upset:3:neg
+: head#
+1048:head:3:neg
+: reach#
+644:reach:2:pos
+: ring#
+644:ring:0:pos
+: scandal#
+644:scandal:1:neg
+: porn#
+644:porn:0:pos
+: boost#
+847:boost:2:pos
+: ban#
+1252:ban:6
+: poise#
+1251:poise:3:neg
+: alert#
+640:alert:1:neg
+: urge#
+845:urge:2:pos
+: lag#
+1244:lag:3:neg
+: confusion#
+1249:confusion:1:neg
+: charge#
+1249:charge:1:neg
+: cause#
+1249:cause:5
+: revive#
+1053:revive:2:pos
+: drought#
+704:drought:1:neg
+: end#
+704:end:6
+: cool#
+1151:cool:7:neg
+: urge#
+572:urge:2:pos
+: go#
+572:go:2:pos
+: green#
+572:green:8:pos
+: force#
+1344:force:1:neg
+: foster#
+1344:foster:2:pos
+: ambition#
+1344:ambition:0:pos
+: ring#
+1345:ring:2:pos
+: respond#
+708:respond:3:neg
+: force#
+708:force:1:neg
+: damage#
+1138:damage:0:pos
+: flock#
+772:flock:2:pos
+: binge#
+830:binge:0:pos
+: eye#
+773:eye:0:pos
+: lose#
+773:lose:3:neg
+: chaos#
+1341:chaos:1:neg
+: hit#
+1341:hit:3:neg
+: test#
+770:test:1:neg
+: gap#
+1340:gap:1:neg
+: wide#
+1340:wide:4
+: celebration#
+831:celebration:0:pos
+: spark#
+831:spark:4
+: unveil#
+1133:unveil:2:pos
+: crossroad#
+777:crossroad:1:neg
+: optimism#
+777:optimism:1:neg
+: rare#
+777:rare:7:neg
+: seek#
+508:seek:3:neg
+: ipod#
+508:ipod:0:pos
+: ban#
+508:ban:6
+: fear#
+970:fear:0:pos
+: ease#
+970:ease:5
+: bowl_over#
+972:bowl_over:3:neg
+: attack#
+974:attack:1:neg
+: run#
+1232:run:3:neg
+: come#
+1233:come:2:pos
+: stop#
+1234:stop:3:neg
+: purge#
+1040:purge:2:pos
+: bid#
+1238:bid:1:neg
+: nap#
+1239:nap:0:pos
+: good_for_you#
+1239:good_for_you:8:pos
+: revel#
+1142:revel:2:pos
+: risk#
+1370:risk:1:neg
+: cut#
+1370:cut:6
+: blast#
+1168:blast:2:pos
+: welcome#
+765:welcome:2:pos
+: dull#
+1374:dull:7:neg
+: brain_drain#
+761:brain_drain:1:neg
+: agonize#
+761:agonize:3:neg
+: fight#
+965:fight:3:neg
+: move#
+963:move:1:neg
+: alert#
+867:alert:1:neg
+: turn#
+663:turn:2:pos
+: duel#
+866:duel:1:neg
+: victorious#
+866:victorious:4
+: reflect#
+664:reflect:2:pos
+: toll#
+664:toll:0:pos
+: facelift#
+556:facelift:0:pos
+: lock#
+1364:lock:3:neg
+: lean#
+1365:lean:8:pos
+: lethargic#
+1365:lethargic:7:neg
+:make_up#
+1170:make_up:2:pos
+: ahead#
+1176:ahead:9:pos
+: drop#
+1409:drop:3:neg
+: not#
+1409:not:6
+: release#
+1155:release:2:pos
+: action#
+1158:action:0:pos
+: clash#
+850:clash:1:neg
+: turn_in#
+1157:turn_in:2:pos
+: custody#
+753:custody:1:neg
+: unveil#
+1360:unveil:2:pos
+: lead#
+1407:lead:2:pos
+: name#
+1408:name:2:pos
+: go_down#
+1220:go_down:2:pos
+: boom#
+858:boom:0:pos
+: row#
+857:row:0:pos
+: spark#
+857:spark:4
+: crown#
+952:crown:0:pos
+: call#
+758:call:2:pos
+: unequivocal#
+758:unequivocal:4
+: unruly#
+1021:unruly:8:pos
+: help#
+1205:help:3:neg
+: reign#
+1210:reign:2:pos
+: duty#
+1200:duty:0:pos
+: rule#
+1211:rule:2:pos
+: rally#
+1212:rally:3:neg
+: battle#
+1201:battle:1:neg
+: debate#
+1354:debate:0:pos
+: spark#
+1354:spark:4
+: step#
+566:step:2:pos
+: profit#
+1208:profit:0:pos
+: rise#
+1208:rise:4
+: test#
+562:test:1:neg
+: boast#
+562:boast:0:pos
+: issue#
+563:issue:2:pos
+: report#
+563:report:0:pos
+: bleak#
+563:bleak:7:neg

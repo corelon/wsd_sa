@@ -1,0 +1,458 @@
+508:
+	target: seek#v#3
+	target1: ipod#n#1
+	valence1: ban#n#1
+519:
+	target: boost#v#3
+521:
+	target: plot#v#4
+	target1: censure#n#1
+525:
+	target: bid#n#1
+	target1: boost#v#3
+542:
+	target: hand#v#1
+	target1: draw#n#5
+	targetadj1: tough#a#3
+548:
+	target: clash#n#3
+556:
+	target: facelift#n#1
+562:
+	target: test#n#5
+	target1: boast#n#1
+563:
+	target: issue#v#2
+	target1: report#n#3
+	targetadj1: bleak#a#3
+566:
+	target: step#v#9
+572:
+	target: urge#v#1
+	target1: go#v#1
+	targetadj1: green#a#1
+602:
+	target: mistrial#n#nr
+611:
+	target: breakthrough#n#3
+612:
+	target: start#n#5
+	targetadj: ragged#a#1
+	valence_all: overcome#v#1
+614:
+	target: hail#v#1
+619:
+	target: fight#v#1
+622:
+	target: home#n#2
+624:
+	target: cripple#v#2
+625:
+	target: star#v#3
+627:
+	target: facelift#n#1
+640:
+	target: alert#n#3
+644:
+	target: reach#v#8
+	target1: ring#n#5
+	target2: scandal#n#2
+	targetadj1: porn#n#1
+663:
+	target: turn#v#2
+664:
+	target: reflect#v#2
+	target1: toll#n#3
+670:
+	target: block#v#2
+671:
+	target: push#n#4
+676:
+	target: strike#n#2
+	targetadj: violent#a#1
+	valence_all: halt#v#2
+685:
+	target: booming#a#1
+694:
+	target: buy#v#1
+	valence: fail#v#4
+697:
+	target: fear#n#1
+	valence: spark#v#2
+704:
+	target: drought#n#2
+	valence: end#v#2
+708:
+	target: respond#v#1
+	target1: force#n#5
+716:
+	target1: outrage#n#3
+	valence: spur#v#1
+719:
+	target: try#v#1
+727:
+	target: fade#v#2
+748:
+	target: light#v#4
+753:
+	target: custody#n#3
+758:
+	target: call#v#18
+	valence: unequivocal#a#1
+761:
+	target: brain_drain#n#1
+	target1: agonize#v#1
+765:
+	target: welcome#v#1
+770:
+	target: test#n#5
+772:
+	target: flock#v#1
+773:
+	target: eye#n#1
+	target1: lose#v#1
+777:
+	target: crossroad#n#1
+	target1: optimism#n#2
+	targetadj1: rare#a#5
+783:
+	target: award#v#2
+786:
+	target: aftermath#n#2
+	target1: scandal#n#2
+800:
+	target: work#v#1
+802:
+	target: go#v#1
+	target1: slow#a#1
+806:
+	target: collapse#n#1
+	target1: catch#v#7
+810:
+	target: lead#v#2
+814:
+	target: keep#v#1
+	target1: calm#a#2
+824:
+	target: keep_open#v#1
+830:
+	target: binge#n#2
+831:
+	target: celebration#n#2
+	valence: spark#v#2
+840:
+	target: fight#n#2
+845:
+	target: urge#v#1
+847:
+	target: boost#v#3
+850:
+	target: clash#n#4
+857:
+	target: row#n#4
+	valence: spark#v#2
+858:
+	target: boom#n#3
+866:
+	target: duel#n#1
+	valence: victorious#a#2
+867:
+	target: alert#n#3
+873:
+	target: support#v#4
+876:
+	target: lead#n#7
+879:
+	target: bid#n#1
+887:
+	target: force#v#7
+894:
+	target: lead#n#9
+898:
+	target: battle#n#3
+908:
+	target: sectarianism#n#1
+	valence: speed#v#1
+910:
+	target: force#v#1
+912:
+	target: dispute#n#1
+930:
+	target: trend#n#1
+	target1: death#n#1
+	valence1: drop#n#2
+945:
+	target: giant#a#1
+	target1: target#n#1
+	target2: miss#v#7
+941:
+	target: speak#v#1
+	target1: softly#r#3
+947:
+	target: lead#n#10
+	valence: stretch#v#10
+952:
+	target: crown#n#4
+963:
+	target: move#n#3
+965:
+	target: fight#v#1
+970:
+	target: fear#n#1
+	valence: ease#v#3
+972:
+	target: bowl_over#v#1
+974:
+	target: attack#n#1
+992:
+	target: fight#n#2
+995:
+	target: price#n#2
+	valence: cut#v#1
+1002:
+	target: promise#n#1
+1003:
+	target: fight#v#1
+1006:
+	target: fear#v#2
+1021:
+	target: unruly#a#1
+1040:
+	target: purge#v#3
+1048:
+	target: head#v#6
+1053:
+	target: revive#v#3
+1062:
+	target: seize#v#5
+1074:
+	target: congestion#n#2
+1075:
+	target: charge#n#3
+	target1: congestion#n#2
+	valence_all: greet#v#1
+1077:
+	target: move#v#1
+	target1: smooth_over#v#1
+1079:
+	target: root#n#1
+1081:
+	target: breakthrough#n#1
+	target1: hope#v#3
+1091:
+	target: cancer#n#4
+	valence: stop#v#1
+1095:
+	target: lay_off#v#1
+1096:
+	target: lay_off#v#1
+1113:
+	target: hope#v#3
+1115:
+	target: failure#n#3
+	valence: help#v#1
+1125:
+	target: move#n#3
+	valence: no#cl
+1126:
+	target: on_the_spot#r#1
+1129:
+	target: sentence#n#3
+1131:
+	target: unveil#v#2
+1133:
+	target: unveil#v#2
+1138:
+	target: damage#n#4
+1142:
+	target: revel#v#1
+1144:
+	target: upset#v#3
+1151:
+	target: cool#a#5
+1155:
+	target: release#v#5
+1157:
+       target: turn_in#v#2
+1158:
+	target: action#n#1
+1168:
+	target: blast#v#8
+1170:
+        target:make_up#v#1 
+1176:
+	target: ahead#r#5
+1178:
+	target: claim#v#5
+1181:
+	target: attack#n#5
+	valence: rev_up#v#1
+1182:
+	target: hinder#v#2
+1187:
+	target: protest#v#2
+1191:
+	target: frustration#n#1
+	target1: stall#v#3
+	valence: rise#v#1
+1200:
+	target: duty#n#1
+1201:
+	target: battle#n#3
+1205:
+	target: help#v#1
+1208:
+	target: profit#n#1
+	valence: rise#v#1
+1210:
+	target: reign#v#1
+1211:
+	target: rule#v#2
+1212:
+	target: rally#v#5
+1220:
+	target: go_down#v#1
+1232:
+	target: run#v#3
+1233:
+	target: come#v#1
+1234:
+	target: stop#v#9
+1238:
+	target: bid#n#4
+1239:
+	target: nap#n#1
+	target1: good_for_you#a#1
+1244:
+	target: lag#v#1
+1249:
+	target: confusion#n#3
+	target1: charge#n#3
+	valence: cause#v#2
+1251:
+	target: poise#v#3
+1252:
+	valence: ban#v#2
+1257:
+	target: blast#n#2
+1263:
+	target: mean#a#1
+1264:
+	target: snub#v#2
+1265:
+	target: win#n#1
+	targetadj: snatch#v#1
+	valence_all: help#v#1
+1267:
+	target: grow#v#3
+1272:
+	target: risk#n#1
+	valence: cut#v#2
+1274:
+	target: way#n#2
+1283:
+	target: fight#v#1
+1284:
+	target: drive#v#1
+1288:
+	target: risk#n#1
+	valence: cut#v#2
+1289:
+	target: hit#v#1
+1290:
+	target: mark#v#2
+1295:
+	target: skate#v#1
+	target1: single_out#v#1
+1312:
+	target: expose#v#3
+1322:
+	target: woo#v#2
+1320:
+	target: talk#n#5
+	target1: stall#v#3
+1340:
+	target: gap#n#6
+	valence: wide#a#2
+1341:
+	target: chaos#n#3
+	target1: hit#v#4
+1344:
+	target: force#n#5
+	target1: foster#v#3
+	target2: ambition#n#2
+1345:
+	target: ring#v#4
+1354:
+	target: debate#n#1
+	valence: spark#v#1
+1360:
+	target: unveil#v#2
+1364:
+	target: lock#v#5
+1365:
+	target: lean#a#1
+	target1: lethargic#a#1
+1370:
+	target: risk#n#1
+	valence: cut#v#2
+1374:
+	target: dull#a#11
+1375:
+	target1: record#n#7
+1380:
+	target: fight#v#1
+1391:
+	target: blast#v#9
+1398:
+	target: clear#v#4
+1407:
+	target: lead#v#6
+1408:
+	target: name#v#4
+1409:
+	target: drop#v#21
+	valence: not#r#1
+1412:
+	target: call#n#12
+1413:
+	target: claim#n#1
+1433:
+	target: promise#v#2
+	target1: hope#n#3
+1434:
+	target: beauty#n#1
+1435:
+	target: payback#n#1
+1437:
+	target: pay#v#7
+1439:
+	target: link#v#1
+1440:
+	target: slash#v#2
+1441:
+	target: abuse#n#2
+1442:
+	target: breakthrough#n#1
+1445:
+	target: set#v#1
+	target1: record#n#2
+1453:
+	target: scare#n#1
+1463:
+	target: fad#n#1
+1465:
+	target: risk#n#1
+	valence: cut#v#2
+1471:
+	target: trump#v#2
+1475:
+        target: hang_on#v#3
+1476:
+	target: seize#v#4
+1477:
+	target: revealing#a#1
+1481:
+	target: erupt#v#3
+1485:
+	target: miss#v#3

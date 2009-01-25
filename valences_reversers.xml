@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<valences>
+<!--1 reversers, 2 diminishers, 3 intensifiers-->
+<!-- 4 Intensifier, 5 Diminisher, 6 Reverser -->
+<!-- The above was updated to comply with HMMtypologie.txt -->
+<valence value="6">ban</valence>
+<valence value="6">overcome</valence>
+<valence value="6">fail</valence>
+<valence value="6">halt</valence>
+<valence value="4">spark</valence>
+<valence value="6">end</valence>
+<valence value="4">spur</valence>
+<valence value="4">unequivocal</valence>
+<valence value="4">victorious</valence>
+<valence value="4">speed</valence>
+<valence value="6">drop</valence>
+<valence value="4">stretch</valence>
+<valence value="5">ease</valence>
+<valence value="6">cut</valence>
+<valence value="6">greet</valence>
+<valence value="6">stop</valence>
+<valence value="6">help</valence>
+<valence value="6">no</valence>
+<valence value="4">rev_up</valence>
+<valence value="4">rise</valence>
+<valence value="5">cause</valence>
+<valence value="4">wide</valence>
+<valence value="6">not</valence>
+<valence value="6">block</valence>
+<valence value="4">strengthen</valence>
+<valence value="6">dismantle</valence>
+<valence value="6">trim</valence>
+<valence value="4">flare</valence>
+<valence value="4">stir</valence>
+<valence value="4">soar</valence>
+<valence value="5">plunge</valence>
+<valence value="5">rare</valence>
+</valences>

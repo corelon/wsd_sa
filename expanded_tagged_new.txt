@@ -1,0 +1,191 @@
+Lawmaker/NN seeks/VBZ iPod/NN ban/NN in/IN crosswalks/NNS in/IN New/NNP York/NNP ./.
+Male/JJ sweat/NN boosts/VBZ women/NNS 's/POS hormone/NN levels/NNS ./.
+Democrats/NNPS plot/VBP Bush/NNP troop/NN increase/NN censure/NN ./.
+US/NNP Airways/NNP boosts/VBZ bid/NN for/IN Delta/NNP ./.
+Federer/NNP handed/VBD tough/JJ Aussie/NNP draw/NN ./.
+Sarkozy/JJ heads/VBZ for/IN clash/NN in/IN cartoons/NNS row/NN ./.
+India/NNP 's/POS Taj/NNP Mahal/NNP gets/VBZ facelift/NN ./.
+News/NN analysis/NN :/: Iranian/JJ boast/NN is/VBZ put/VBN to/TO test/NN ./.
+Panel/NN issues/VBZ bleak/JJ report/NN on/IN climate/NN change/NN ./.
+`/`` Stomp/NNP '/POS steps/VBZ  to/TO No./VB 1/CD at/IN box/NN office/NN ./.
+EU/NNP will/MD urge/VB China/NNP to/TO go/VB green/JJ ./.
+A/DT mistrial/NN for/IN Lieut/NNP /Watada/NNP ./.
+Asia/NNP seeks/VBZ breakthrough/NN on/IN North/NNP Korea/NNP ./.
+Federer/NNP overcomes/VBZ a/DT ragged/JJ start/NN ./.
+Terai/JJ protesters/NNS hail/VB `/`` historic/JJ '/'' victory/NN over/IN government/NN ./.
+Sleep/VB more/JJR to/TO fight/VB childhood/NN obesity/NN ./.
+Sleuths/NNS close/VBP in/RP on/IN Odysseus/NNP home/NN ./.
+Ice/NNP storm/NN cripples/VBZ central/JJ U.S./NNP ./.
+Park/NNP stars/VBZ as/IN United/NNP maintain/VBP lead/NN ./.
+India/NNP 's/POS famous/JJ landmark/NN gets/VBZ facelift/NN ./.
+Firms/NNS on/IN alert/NN for/IN letter/NN bombs/NNS ./.
+Porn/NN ring/NN scandal/NN reaches/VBZ Australia/NNP ./.
+Space/NNP life/NN search/NN turns/VBZ to/TO TV/NN ./.
+Super/NNP Bowl/NNP ads/NNS of/IN cartoonish/JJ violence/NN ,/, perhaps/RB reflecting/VBG toll/NN of/IN war/NN ./.
+Republicans/NNPS plan/VBP to/TO block/VB Iraq/NNP debate/NN ./.
+Mixed/JJ reaction/NN to/TO China/NNP 's/POS Africa/NNP push/NN ./.
+Rights/NNS group/NNS halts/VBZ violent/JJ Nepal/NNP strikes/NNS ./.
+Township/NNP tourism/NN booming/JJ in/IN South/NNP Africa/NNP ./.
+US/NNP millions/NNS fail/VBP to/TO buy/VB influence/NN in/IN deadly/JJ Gaza/NNP power/NN play/NN ./.
+New/NNP Orleans/NNP violence/NN sparks/VBZ tourism/NN fears/NNS ./.
+Goetschl/NNP ends/VBZ Austrian/JJ win/VBP drought/NN ./.
+Peretz/NN orders/VBZ IDF/NNP to/TO respond/VB with/IN force/NN to/TO north/JJ border/NN attacks/NNS ./.
+Israeli/JJ woman/NN 's/POS tirade/NN spurs/VBZ PM/NNP outrage/NN ./.
+Italy/NNP to/TO try/VB US/NNP soldier/NN for/IN agent/NN 's/POS Iraq/NNP death/NN ./.
+Pap/NNP Test/NNP ,/, a/DT mainstay/NN against/IN cervical/JJ cancer/NN ,/, may/MD be/VB fading/VBZ ./.
+`/`` We/PRP lit/VBD our/PRP$ last/JJ candle/NN yesterday/NN '/'' ./.
+Eight/CD years/NNS youth/NN custody/NN for/IN Damilola/NNP killers/NNS ./.
+Science/NN panel/NN calls/VBZ global/JJ warming/NN unequivocal/JJ ./.
+Germany/NNP agonizes/VBZ over/IN a/DT brain_drain/NN ./.
+Philippine/JJ president/NN welcomes/VBZ Senate/NNP approval/NN of/IN anti/IN terror/NN bill/NN ./.
+Iran/NNP 's/POS boast/NN on/IN uranium/NN enrichment/NN is/VBZ put/VBN to/TO test/NN ./.
+Bird/NN watchers/NNS flock/VBZ to/TO see/VB rare/JJ owl/NN ./.
+Eye/NNP on/IN cosmos/NNS is/VBZ lost/VBN to/TO short/JJ circuit/NN on/IN hubble/NN ./.
+Rare/JJ optimism/NN as/IN North/NNP Korea/NNP talks/NNS reach/VBP crossroads/NNS ./.
+Wellcome/NNP awards/VBZ anti/IN fat/NN research/NN ./.
+What/WP Newsom/NNP faces/VBZ in/IN aftermath/NN of/IN scandal/NN ./.
+In/IN rigorous/JJ test/NN ,/, talk/NN therapy/NN works/VBZ for/IN panic/NN disorder/NN ./.
+On/IN road/NN to/TO Kosovo/NNP independence/NN ,/, a/DT warning/NN :/: go/VB slow/JJ ./.
+Subway/NN collapse/NN caught/VBN on/IN camera/NN ./.
+Fuel/NN spill/NN may/MD lead/VB to/TO missing/VBG jet/NN ./.
+Israel/NNP says/VBZ hopes/VBP to/TO keep/VB Lebanon/NNP border/NN calm/JJ ./.
+U.S./NNP keeps_open/VBZ Iran/NNP options/NNS ./.
+Woman/NNP dies/VBZ after/IN water/NN binge/NN ./.
+Mancuso/NNP sparks/VBZ U.S./NNP celebrations/NNS ./.
+Attorneys/NNS point/VBP fingers/NNS in/IN fight/NN between/IN Ryan/NNP O'Neal/NNP and/CC son/NN ./.
+China/NNP urges/VBZ UN/NNP action/NN on/IN N/NNP Korea/NNP ./.
+Male/JJ sweat/NN boosts/VBZ women/NNS 's/POS hormone/NN levels/NNS ./.
+Israeli/JJ ,/, Lebanese/JJ clash/NN on/IN border/NN ./.
+Ballerina/NNP sparks/VBZ anti/IN fascist/JJ row/NN ./.
+Internet/NN boom/NN in/IN China/NNP is/VBZ built/VBN on/IN virtual/JJ fun/NN ./.
+Ferrer/NNP victorious/JJ in/IN Spanish/JJ duel/NN ./.
+UK/NNP workers/NNS on/IN alert/NN for/IN letter/NN bombs/NNS ./.
+Microsoft/NNP supports/VBZ OpenID/NNP authentication/NN standard/NN ./.
+China/NNP says/VBZ rich/JJ countries/NNS should/MD take/VB lead/NN on/IN global/JJ warming/NN ./.
+Barack/NNP Obama/NNP formally/RB announces/VBZ bid/NN for/IN president/NN ./.
+Indonesia/NNP flood/NN forces/VBZ 340,000/CD from/IN homes/NNS ./.
+Donald/NNP and/CC Goydos/NNP share/VBZ Sony/NNP lead/NN ./.
+Blair/NNP :/: Terror/NN battle/NN will/MD be/VB long/JJ ./.
+Botched/VBN hangings/NNS in/IN Iraq/NNP speed/VBZ sectarianism/NN ./.
+7/CD GOP/NNP senators/NNS to/TO force/VB debate/NN on/IN troops/NNS in/IN Iraq/NNP ./.
+Italy/NNP 's/POS dispute/NN with/IN US/NNP over/IN Iraq/NNP shooting/NN ./.
+Second/JJ drop/NN in/IN cancer/NN deaths/NNS could/MD point/VB to/TO a/DT trend/NN ,/, researchers/NNS say/VBP ./.
+Software/NNP giant/JJ SAP/NN misses/VBZ target/NN ./.
+In/IN Egypt/NNP ,/, Rice/NNP speaks/VBZ softly/RB ./.
+De/NNP Villiers/NNP stretches/VBZ overall/JJ lead/NN ./.
+Nadal/NNP wants/VBZ Australian/NNP Open/NNP crown/NN ./.
+Beckham/NNP outlines/VBZ reasons/NNS for/IN move/NN ./.
+Venezuela/NNP ,/, Iran/NNP fight/VBZ U.S./NNP dominance/NN ./.
+Tsunami/NN fears/NNS ease/VBP after/IN quake/NN ./.
+Underarm/JJ bowls_over/VBZ them/PRP ./.
+New/NNP McCain/NNP team/NN made/VBD attack/NN ads/NNS he/PRP once/RB faulted/VBD ./.
+Gere/JJ cheers/VBZ sex/NN workers/NNS in/IN AIDS/NNP fight/NN ./.
+Surprise/NNP :/: China/NNP cuts/VBZ price/NN of/IN gas/NN ./.
+Iraqi/JJ sunni/NN lands/NNS show/VBP new/JJ oil/NN and/CC gas/NN promise/NN ./.
+Princess/NNP and/CC heir/NN of/IN Franz/NNP Ferdinand/NNP fights/VBZ to/TO repeal/VB a/DT law/NN and/CC gain/VB a/DT castle/NN ./.
+North/NNP Africa/NNP feared/VBD as/IN staging/NN ground/NN for/IN terror/NN ./.
+Books/NNS on/IN science/NN :/: The/DT problems/NNS in/IN modeling/NN nature/NN ,/, with/IN its/PRP$ unruly/JJ natural/JJ tendencies/NNS ./.
+Iraqi/JJ suicide/NN attack/NN kills/VBZ two/CD US/NNP troops/NNS as/IN militants/NNS fight/NN purge/VBZ ./.
+Iran/NNP top/JJ nuclear/JJ envoy/NN heads/VBZ for/IN Vienna/NNP for/IN nuke/NN talks/NNS ./.
+Royal/NNP seeks/VBZ to/TO revive/VB French/JJ bid/NN ./.
+Taliban/NNS seize/VBP rural/JJ district/NN in/IN southwest/NN as/IN police/NNS flee/VBP ./.
+London/NNP is/VBZ pace/NN setter/NN on/IN congestion/NN toll/NN ,/, says/VBZ mayor/NN ./.
+Protest/NNP greets/VBZ congestion/NN charge/NN 's/POS westward/RB push/VB ./.
+Thai/NNP Govt/NNP moves/VBZ to/TO smooth_over/VB relations/NNS with/IN south/NN ./.
+Roots/NNS of/IN autism/NN more/RBR complex/JJ than/IN thought/NN ./.
+Canadian/JJ breakthrough/NN offers/NNS hope/VBP on/IN autism/NN ./.
+Stop/VBZ cancer/NN with/IN a/DT shot/NN ./.
+Bernard/NNP Matthews/NNP to/TO lay_off/VB up/IN to/TO 500/CD workers/NNS ./.
+Matthews/NNP lays_off/VBD 130/CD turkey/NN workers/NNS ./.
+Pig/NN cells/NNS hope/VBP for/IN diabetes/NN cure/NN ./.
+Foetal/JJ mechanism/NN helps/VBZ heart/NN failure/NN ./.
+Bush/NNP officials/NNS :/: no/DT big/JJ move/NN in/IN Iraq/NNP plan/NN ./.
+Opponent/NN is/VBZ put/VBN on_the_spot/RB over/IN remarks/NNS about/IN Clinton/NNP ./.
+Enron/NNP boss/NN gets/VBZ 24 year/NN sentence/NN ./.
+Google/NNP unveils/VBZ do-it-yourself/JJ search/NN engine/NN ./.
+Oracle/NNP World/NNP opens/VBZ with/IN Dell/NNP unveiling/VBG AMD-powered/JJ computers/NNS ./.
+Trying/VBG to/TO assess/VB the/DT damage/NN in/IN Cleveland/NNP ./.
+Bruce/NNP revel/VB in/IN upset/NN ./.
+Arthurs/JJ upsets/VBZ Robredo/NNP in/IN first/JJ round/NN at/IN the/DT St./NNP Petersburg/NNP Open/NNP ./.
+Cool/JJ millions/NNS for/IN YouTube/NNP founders/NNS ./.
+Microsoft/NNP to/TO release/VB next/JJ generation/NN phone/NN ./.
+Teen/CD allegedly/RB armed/VBN by/IN mom/NN turn/VB in/RP self/NN ./.
+Oxfam/NNP :/: action/NN needed/VBN for/IN Chad/NNP ./.
+Kerry/NNP blasts/VBZ escalation/NN of/IN misguided/JJ war/NN ./.
+Ronnie/NNP and/CC Eto/NNP o/NN hug/NN and/CC make/VB up/RP ./.
+Spain/NNP ahead/RB although/IN Nadal/NNP is/VBZ out/RP ./.
+Iran/NNP rejects/VBZ US/PRP claims/VBZ of/IN supplying/VBG weapons/NNS in/IN Iraq/NNP ./.
+Apple/NNP revs_up/VBZ Mac/NNP attacks/NNS on/IN Vista/NNP ./.
+Fear/NN hinders/VBZ black/JJ marrow/NN donation/NN ./.
+Women/NNS protest/VBP Pakistan/NNP demolition/NN ./.
+Frustration/NN rises/VBZ as/IN North/NNP Korea/NNP nuclear/JJ talks/NNS stall/VBP ./.
+Dolphins/NNPS ,/, sea/NN lions/NNS may/MD report/VB for/IN duty/NN soon/RB ./.
+Nasdaq-LSE/JJ battle/NN nears/VBZ deadline/NN ./.
+Study/NNP :/: napping/JJ might/MD help/VB heart/NN ./.
+Air/NNP France/NNP KLM/NNP profit/NN rises/VBZ ./.
+King/NN and/CC queen/NN reign/VBZ at/IN British/JJ film/NN awards/NNS ./.
+Murphys/JJ rule/VBZ box/NN office/NN with/IN `/`` Norbit/NNP '/'' ./.
+Thousands/NNS rally/VBP in/IN Lebanon/NNP ./.
+Group/NNP :/: Video/NNP shows/VBZ chopper/NN go_down/VBN ./.
+Obama/NNP will/MD run/VB in/IN 2008/CD ./.
+`/`` Cagney/NNP &/CC Lacey/NNP '/'' finally/RB coming/VBG to/TO DVD/NNP ./.
+Merkel/NNP :/: Stop/VBZ Iran/NNP ./.
+Obama/NNP announces/VBZ presidential/JJ bid/NN ./.
+Tell/VB your/PRP$ boss/NN :/: Naps/NNS are/VBP good_for_you/JJ ./.
+Tourism/NNP lags/VBZ in/IN Bush/NNP 's/POS hometown/NN ./.
+British/NNP Airways/NNPS baggage/NN charges/NNS cause/VBZ confusion/NN ./.
+St./NNP Louis/NNP poised/VBD for/IN entertainment/NN upswing/NN ./.
+New/NNP York/NNP City/NNP may/MD ban/VB iPods/NNS while/IN crossing/VBG street/NN ./.
+Mogadishu/NNP residents/NNS flee/VBP blasts/NNS ./.
+Singer/NNP on/IN Cowell/NNP :/: Glad/NN he/PRP was/VBD mean/JJ ./.
+Jones/NNP faces/VBZ Europe/NNP meetings/NNS snub/VBP ./.
+Beckham/NN goal/NN helps/VBZ Real/RB snatch/VBP win/NN ./.
+Japan/NNP 's/POS economy/NN grows/VBZ ./.
+Siesta/NNP cuts/VBZ risk/NN of/IN heart/NN disease/NN death/NN ,/, study/NN finds/VBZ ./.
+Nap/VB your/PRP$ way/NN to/TO a/DT successful/JJ career/NN ./.
+Fight/VB starts/NNS over/IN HPV/NNP vaccine/NN ./.
+Autos/NNS drive/VBP European/JJ gains/NNS ./.
+On-the-job/JJ naps/NNS might/MD cut/VB heart/NN risk/NN ./.
+No/DT 1/CD Florida/NNP survives/VBZ Rupp/NNP Arena/NNP ,/, streak/NN hits/VBZ 16/CD ./.
+J.K./NNP Rowling/NNP marks/VBZ spot/NN of/IN `/`` Potter/NNP 's/POS '/POS end/NN ./.
+G7/NNP :/: Yen/JJ skates/VBZ by/IN ,/, yuan/JJ singled_out/VBZ ./.
+Whistle-blowing/JJ Web/NNP site/NN exposed/VBN ./.
+Malaysia/NNP aggressively/RB wooing/VBG tourists/NNS ./.
+North/NNP Korea/NNP aid/NN demand/VBZ stall/VB talks/NNS ./.
+Study/NNP :/: Africa/NNP 's/POS Internet/NNP gap/NN getting/VBG wider/JJR ./.
+Travel/NN chaos/NN as/IN heavy/JJ snow/NN hits/VBZ UK/NNP ./.
+Putin/NNP :/: U.S./NNP force/NN fostering/VBG nuke/JJ ambitions/NNS ./.
+Nuke/NN detectors/NNS to/TO ring/VB New/NNP York/NNP ,/, official/NN says/VBZ ./.
+Teacher/NN 's/POS porn/NN conviction/NN sparks/VBZ tech/JJ debate/NN ./.
+Iraq/NNP unveils/VBZ new/JJ security/NN plans/NNS ./.
+Prehistoric/JJ lovers/NNS found/VBD locked/VBN in/IN eternal/JJ embrace/VBP ./.
+Charts/NNS :/: Is/VBZ your/PRP$ city/NN lean/JJ or/CC lethargic/JJ ?/.
+Siestas/NNP may/MD cut/VB heart/NN disease/NN risk/NN ./.
+Sharks/NNS kill/VBP four/CD people/NNS in/IN dull/JJ year/NN ./.
+Record/NN shattering/NN day/NN on/IN Wall/NNP St./NNP ./.
+Woman/NNP fights/VBZ to/TO keep/VB drunken/JJ driver/NN in/IN jail/NN ./.
+Lawmakers/NNS blast/VBP FDA/NNP drug/NN safety/NN oversight/NN ./.
+UK/NNP soldiers/NNS cleared/VBN of/IN Iraq/NNP abuse/NN ./.
+Higley/NNP ,/, Gonzalez/NNP lead/VBZ in/IN Malaysia/NNP ./.
+Grammys/NNS ready/JJ to/TO name/VB winners/NNS ./.
+Pound/NN will/MD not/RB drop/VB Armstrong/NNP case/NN ./.
+Allen/NNP and/CC Okur/NNP get/VBP All-Star/JJ call/NN ./.
+Svindal/JJ claims/NNS are/VBP golden/JJ double/RB ./.
+Breast/NN cancer/NN drug/NN promises/VBZ hope/NN ./.
+Ancient/NNP coin/NN shows/VBZ Cleopatra/NNP was/VBD no/DT beauty/NN ./.
+YouTube/NNP yields/VBZ surprising/JJ payback/NN ./.
+Werder/NNP make/VBP 10-man/JJ Ajax/NNP pay/VBZ price/NN ./.
+Report/NNP links/VBZ humans/NNS to/TO global/JJ warming/NN ./.
+UN/NNP nuclear/JJ watchdog/NN slashes/VBZ Iran/NNP aid/NN ./.
+Survey/NNP :/: Tech/NNP a/DT tool/NN in/IN teen/NN dating/VBG abuse/NN ./.
+The/DT breast/NN cancer/NN breakthrough/NN saving/VBG 1000/CD women/NNS a/DT year/NN ./.
+World/NN tourism/NN sets/VBZ record/NN in/IN 2006/CD ./.
+Lee/NNP in/IN pre-World/NNP Cup/NNP injury/NN scare/NN ./.
+Latest/JJS food/NN fad/NN --/: `/`` space/NN potatoes/NNS '/POS ./.
+Good/JJ news/NN for/IN slackers/NNS :/: Naps/NNS may/MD cut/VB risk/NN for/IN heart/NN problems/NNS ./.
+Durant/NNP 's/POS success/NN trumps/VBZ the/DT Gators/NNP ./.
+United/NNP hang/VB on/RP to/TO six-point/JJ lead/NN ./.
+Lawyer/NNP seizes/VBZ Smith/NNP 's/POS Bahamas/NNPS home/NN ./.
+Was/VBD Prince/NNP 's/POS super/JJ show/NN too/RB revealing/JJ ?/.
+ROUNDUP/NNP :/: Protests/NNS erupt/VBP despite/IN ``/`` state/NN of/IN siege/NN ''/'' In/IN Guinea/NNP ./.
+Serena/NNP misses/VBZ Bangalore/NNP tournament/NN ./.

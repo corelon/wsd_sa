@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><corpus task="affect">
+<instance id="508" target="seek" target1="ipod"  valence1="ban" >Lawmaker seeks iPod ban in crosswalks in New York</instance>
+<instance id="519" target="boost">Male sweat boosts women's hormone levels</instance>
+<instance id="521" target="plot" target1="censure">Democrats plot Bush troop increase censure</instance>
+<instance id="525" target="bid" target1="boost">US Airways boosts bid for Delta</instance>
+<instance id="542" target="hand"  targetadj1="tough"  target1="draw" >Federer handed tough Aussie draw</instance>
+<instance id="548" target="clash">Sarkozy heads for clash in cartoons row</instance>
+<instance id="556" target="facelift">India's Taj Mahal gets facelift</instance>
+<instance id="562" target="test" target1="boast">News analysis: Iranian boast is put to test</instance>
+<instance id="563" targetadj1="bleak" target1="report" target="issue">Panel issues bleak report on climate change</instance>
+<instance id="566" target="step">'Stomp' steps to No. 1 at box office</instance>
+<instance id="572" target="urge" target1="go" targetadj1="green">EU will urge China to go green</instance>
+<instance id="602" target="mistrial">A mistrial for Lieut. Watada</instance>
+<instance id="611" target="breakthrough">Asia seeks breakthrough on North Korea</instance>
+<instance id="612" targetadj="ragged"  target="start"  valence_all="overcome">Federer overcomes a ragged start</instance>
+<instance id="614" target="hail">Terai protesters hail 'historic' victory over government</instance>
+<instance id="619" target="fight">Sleep more to fight childhood obesity</instance>
+<instance id="622" target="home">Sleuths close in on Odysseus home</instance>
+<instance id="624" target="cripple">Ice storm cripples central U.S.</instance>
+<instance id="625" target="star">Park stars as United maintain lead</instance>
+<instance id="627" target="facelift">India's famous landmark gets facelift</instance>
+<instance id="640" target="alert">Firms on alert for letter bombs</instance>
+<instance id="644" target="reach" targetadj1="porn"  target1="ring" target2="scandal">Porn ring scandal reaches Australia</instance> 
+<instance id="663" target="turn">Space life search turns to TV</instance>
+<instance id="664"  target="reflect" target1="toll" >Super Bowl ads of cartoonish violence, perhaps reflecting toll of war</instance>
+<instance id="670" target="block">Republicans plan to block Iraq debate</instance>
+<instance id="671" target="push">Mixed reaction to China's Africa push</instance>
+<instance id="676" target="strike"  targetadj="violent" valence_all="halt">Rights group halts violent Nepal strikes</instance>
+<instance id="685" target="booming">Township tourism booming in South Africa</instance>
+<instance id="694" target="buy" valence="fail">US millions fail to buy influence in deadly Gaza power play</instance>
+<instance id="697" valence="spark" target="fear">New Orleans violence sparks tourism fears</instance>
+<instance id="704" target="drought" valence="end">Goetschl ends Austrian win drought</instance>
+<instance id="708" target="respond" target1="force">Peretz orders IDF to respond with force to north border attacks</instance>
+<instance id="716" valence="spur" target1="outrage">Israeli woman's tirade spurs PM outrage</instance>
+<instance id="719" target="try">Italy to try US soldier for agent's Iraq death</instance>
+<instance id="727" target="fade">Pap Test, a mainstay against cervical cancer, may be fading</instance>
+<instance id="748" target="light">'We lit our last candle yesterday'</instance>
+<instance id="753" target="custody">Eight years youth custody for Damilola killers</instance>
+<instance id="758" target="call" valence="unequivocal">Science panel calls global warming unequivocal</instance>
+<instance id="761" target="brain_drain" target1="agonize">Germany agonizes over a brain_drain</instance>
+<instance id="765" target="welcome">Philippine president welcomes Senate approval of anti-terror bill</instance>
+<instance id="770" target="test">Iran's boast on uranium enrichment is put to test</instance>
+<instance id="772" target="flock">Bird watchers flock to see rare owl</instance>
+<instance id="773" target="eye" target1="lose">Eye on cosmos is lost to short circuit on hubble</instance>
+<instance id="777" target="crossroad"  targetadj1="rare" target1="optimism">Rare optimism as North Korea talks reach crossroads</instance>
+<instance id="783" target="award">Wellcome awards anti-fat research</instance>
+<instance id="786" target="aftermath" target1="scandal">What Newsom faces in aftermath of scandal</instance>
+<instance id="800" target="work">In rigorous test, talk therapy works for panic disorder</instance>
+<instance id="802" target="go"  target1="slow">On road to Kosovo independence, a warning: go slow</instance>
+<instance id="806" target="collapse" target1="catch">Subway collapse caught on camera</instance>
+<instance id="810" target="lead">Fuel spill may lead to missing jet</instance>
+<instance id="814" target="keep" target1="calm">Israel says hopes to keep Lebanon border calm</instance>
+<instance id="824" target="keep_open">U.S. keeps_open Iran options</instance>
+<instance id="830" target="binge">Woman dies after water binge</instance>
+<instance id="831" target="celebration" valence="spark">Mancuso sparks U.S. celebrations</instance>
+<instance id="840" target="fight">Attorneys point fingers in fight between Ryan O'Neal and son</instance>
+<instance id="845" target="urge">China urges UN action on N Korea</instance>
+<instance id="847" target="boost">Male sweat boosts women's hormone levels</instance>
+<instance id="850" target="clash">Israeli, Lebanese clash on border</instance>
+<instance id="857" target="row" valence="spark">Ballerina sparks anti-fascist row</instance>
+<instance id="858" target="boom">Internet boom in China is built on virtual fun</instance>
+<instance id="866" target="duel" valence="victorious">Ferrer victorious in Spanish duel</instance>
+<instance id="867" target="alert">UK workers on alert for letter bombs</instance>
+<instance id="873" target="support">Microsoft supports OpenID authentication standard</instance>
+<instance id="876" target="lead">China says rich countries should take lead on global warming</instance>
+<instance id="879" target="bid">Barack Obama formally announces bid for president</instance>
+<instance id="887" target="force">Indonesia flood forces 340,000 from homes</instance>
+<instance id="894" target="lead">Donald and Goydos share Sony lead</instance>
+<instance id="898" target="battle">Blair: Terror battle will be long</instance>
+<instance id="908" target="sectarianism" valence="speed">Botched hangings in Iraq speed sectarianism</instance>
+<instance id="910" target="force">7 GOP senators to force debate on troops in Iraq</instance>
+<instance id="912" target="dispute">Italy's dispute with US over Iraq shooting</instance>
+<instance id="930" target="trend" target1="death" valence1="drop">Second drop in cancer deaths could point to a trend, researchers say</instance>
+<instance id="945" target="giant" target1="target" target2="miss" >Software giant SAP misses target</instance>
+<instance id="941" target="speak" target1="softly">In Egypt, Rice speaks softly</instance>
+<instance id="947" target="lead" valence="stretch">De Villiers stretches overall lead</instance>
+<instance id="952" target="crown">Nadal wants Australian Open crown</instance>
+<instance id="963" target="move">Beckham outlines reasons for move</instance>
+<instance id="965" target="fight">Venezuela, Iran fight U.S. dominance</instance>
+<instance id="970" target="fear" valence="ease">Tsunami fears ease after quake</instance>
+<instance id="972" target="bowl_over">Underarm bowls_over them</instance>
+<instance id="974" target="attack">New McCain team made attack ads he once faulted</instance>
+<instance id="992" target="fight">Gere cheers sex workers in AIDS fight</instance>
+<instance id="995" valence="cut" target="price">Surprise: China cuts price of gas</instance>
+<instance id="1002" target="promise">Iraqi sunni lands show new oil and gas promise</instance>
+<instance id="1003" target="fight">Princess and heir of Franz Ferdinand fights to repeal a law and gain a castle</instance>
+<instance id="1006" target="fear" target1="stag">North Africa feared as staging ground for terror</instance>
+<instance id="1021" target="unruly">Books on science: The problems in modeling nature, with its unruly natural tendencies</instance>
+<instance id="1040" target="purge">Iraqi suicide attack kills two US troops as militants fight purge</instance>
+<instance id="1048" target="head">Iran top N-envoy heads for Vienna for nuke talks</instance>
+<instance id="1053" target="revive">Royal seeks to revive French bid</instance>
+<instance id="1062" target="seize">Taliban seize rural district in southwest as police flee</instance>
+<instance id="1074" target="congestion">London is pace-setter on congestion toll, says mayor</instance>
+<instance id="1075"  target1="congestion" target="charge"   valence_all="greet">Protest greets congestion charge's westward push</instance>
+<instance id="1077" target="move" target1="smooth_over">Thai Govt moves to smooth_over relations with south</instance>
+<instance id="1079" target="root">Roots of autism more complex than thought</instance>
+<instance id="1081" target="breakthrough" target1="hope">Canadian breakthrough offers hope on autism</instance>
+<instance id="1091" target="cancer" valence="stop">Stop cancer with a shot</instance>
+<instance id="1095" target="lay_off">Bernard Matthews to lay_off up to 500 workers</instance>
+<instance id="1096" target="lay_off">Matthews lays_off 130 turkey workers</instance>
+<instance id="1113" target="hope">Pig cells hope for diabetes cure</instance>
+<instance id="1115" target="failure" valence="help">Foetal mechanism helps heart failure</instance>
+<instance id="1125" target="move" valence="no">Bush officials: no big move in Iraq plan </instance>
+<instance id="1126" target="on_the_spot">Opponent is put on_the_spot over remarks about Clinton</instance>
+<instance id="1129" target="sentence">Enron boss gets 24-year sentence</instance>
+<instance id="1131" target="unveil">Google unveils do-it-yourself search engine</instance>
+<instance id="1133" target="unveil">Oracle World opens with Dell unveiling AMD-powered computers</instance>
+<instance id="1138" target="damage">Trying to assess the damage in Cleveland </instance>
+<instance id="1142" target="revel">Bruce revells in upset</instance>
+<instance id="1144" target="upset">Arthurs upsets Robredo in first round at the St. Petersburg Open</instance>
+<instance id="1151" target="cool">Cool millions for YouTube founders</instance>
+<instance id="1155" target="release">Microsoft to release next generation phone</instance>
+<instance id="1157" target="turn_in">Teen allegedly armed by mom turn_in self</instance>
+<instance id="1158" target="action">Oxfam: action needed for Chad</instance>
+<instance id="1168" target="blast">Kerry blasts escalation of misguided war</instance>
+<instance id="1170" target="make_up">Ronnie and Eto o hug and make_up</instance>
+<instance id="1176" target="ahead">Spain ahead although Nadal is out</instance>
+<instance id="1178" target="claim">Iran rejects US claims of supplying weapons in Iraq</instance>
+<instance id="1181" target="attack" valence="rev_up">Apple revs_up Mac attacks on Vista</instance>
+<instance id="1182" target="hinder">Fear hinders black marrow donation</instance>
+<instance id="1187" target="protest">Women protest Pakistan demolition</instance>
+<instance id="1191" target="frustration" valence="rise" target1="stall">Frustration rises as North Korea nuclear talks stall</instance>
+<instance id="1200" target="duty">Dolphins, sea lions may report for duty soon</instance>
+<instance id="1201" target="battle">Nasdaq-LSE battle nears deadline</instance>
+<instance id="1205" target="help">Study: napping might help heart</instance>
+<instance id="1208" valence="rise" target="profit">Air France KLM profit rises</instance>
+<instance id="1210" target="reign">King and queen reign at British film awards</instance>
+<instance id="1211" target="rule">Murphys rule box office with 'Norbit'</instance>
+<instance id="1212" target="rally">Thousands rally in Lebanon</instance>
+<instance id="1220" target="go_down">Group: Video shows chopper go_down</instance>
+<instance id="1232" target="run">Obama will run in 2008</instance>
+<instance id="1233" target="come">'Cagney &amp; Lacey' finally coming to DVD</instance>
+<instance id="1234" target="stop">Merkel: Stop Iran</instance>
+<instance id="1238" target="bid">Obama announces presidential bid</instance>
+<instance id="1239" target="nap" target1="good_for_you">Tell your boss: Naps are good_for_you</instance>
+<instance id="1244" target="lag">Tourism lags in Bush's hometown</instance>
+<instance id="1249" target="confusion" target1="charge" valence="cause">British Airways baggage charges cause confusion</instance>
+<instance id="1251" target="poise">St. Louis poised for entertainment upswing</instance>
+<instance id="1252" valence="ban" target="ipods">New York City may ban iPods while crossing street</instance>
+<instance id="1257" target="blast">Mogadishu residents flee blasts</instance>
+<instance id="1263" target="mean">Singer on Cowell: Glad he was mean</instance>
+<instance id="1264" target="snub">Jones faces Europe meetings snub</instance>
+<instance id="1265"  targetadj="snatch" target="win" valence_all="help">Beckham goal helps Real snatch win</instance>
+<instance id="1267" target="grow">Japan's economy grows</instance>
+<instance id="1272" target="risk" valence="cut">Siesta cuts risk of heart disease death, study finds</instance>
+<instance id="1274" target="way">Nap your way to a successful career</instance>
+<instance id="1283" target="fight">Fight starts over HPV vaccine</instance>
+<instance id="1284" target="drive">Autos drive European gains</instance>
+<instance id="1288" target="risk" valence="cut">On-the-job naps might cut heart risk</instance>
+<instance id="1289" target="hit">No 1 Florida survives Rupp Arena, streak hits 16</instance>
+<instance id="1290" target="mark">J.K. Rowling marks spot of 'Potter's' end</instance>
+<instance id="1295" target="skate" target1="single_out">G7: Yen skates by, yuan singled_out</instance>
+<instance id="1312" target="expose">Whistle-blowing Web site exposed</instance>
+<instance id="1322" target="woo">Malaysia aggressively wooing tourists</instance>
+<instance id="1320" target="talk" target1="stall">North Korea aid demand stall talks</instance>
+<instance id="1340" target="gap" valence="wide">Study: Africa's Internet gap getting wider</instance>
+<instance id="1341" target="chaos" target1="hit">Travel chaos as heavy snow hits UK</instance>
+<instance id="1344"  target="force"  target1="foster"  targetadj2= "nuke" target2="ambition">Putin: U.S. force fostering nuke ambitions</instance>
+<instance id="1345" target="ring">Nuke detectors to ring New York, official says</instance>
+<instance id="1354" target="debate" valence="spark">Teacher's porn conviction sparks tech debate</instance>
+<instance id="1360" target="unveil">Iraq unveils new security plans</instance>
+<instance id="1364" target="lock">Prehistoric lovers found locked in eternal embrace</instance>
+<instance id="1365" target="lean" target1="lethargic">Charts: Is your city lean or lethargic?</instance>
+<instance id="1370" target="risk" valence="cut">Siestas may cut heart disease risk</instance>
+<instance id="1374" target="dull">Sharks kill four people in dull year</instance>
+<instance id="1375" target="shatter" target1="record">Record-shattering day on Wall St.</instance>
+<instance id="1380" target="fight">Woman fights to keep drunken driver in jail</instance>
+<instance id="1391" target="blast">Lawmakers blast FDA drug safety oversight</instance>
+<instance id="1398" target="clear">UK soldiers cleared of Iraq abuse</instance>
+<instance id="1407" target="lead">Higley, Gonzalez lead in Malaysia</instance>
+<instance id="1408" target="name">Grammys ready to name winners</instance>
+<instance id="1409" target="drop" valence="not">Pound will not drop Armstrong case</instance>
+<instance id="1412" target="call">Allen and Okur get All-Star call</instance>
+<instance id="1413" target="claim">Svindal claims are golden double</instance>
+<instance id="1433" target="promise" target1="hope">Breast cancer drug promises hope</instance>
+<instance id="1434" target="beauty">Ancient coin shows Cleopatra was no beauty</instance>
+<instance id="1435" target="payback">YouTube yields surprising payback</instance>
+<instance id="1437" target="pay">Werder make 10-man Ajax pay price</instance>
+<instance id="1439" target="link">Report links humans to global warming</instance>
+<instance id="1440" target="slash">UN nuclear watchdog slashes Iran aid</instance>
+<instance id="1441" target="abuse">Survey: Tech a tool in teen dating abuse</instance>
+<instance id="1442"  target="breakthrough">The breast cancer breakthrough saving 1000 women a year</instance>
+<instance id="1445"  target="set" target1="record">World tourism sets record in 2006</instance>
+<instance id="1453"  target="scare">Lee in pre-World Cup injury scare</instance>
+<instance id="1463" target="fad">Latest food-fad -- 'space potatoes'</instance>
+<instance id="1465"  target="risk"   valence="cut" >Good news for slackers: Naps may cut risk for heart problems</instance>
+<instance id="1471" target="trump">Durant's success trumps the Gators</instance>
+<instance id="1475" target="hang_on">United hang_on to six-point lead</instance>
+<instance id="1476" target="seize">Lawyer seizes Smith's Bahamas home</instance>
+<instance id="1477" target="revealing">Was Prince's super show too revealing?</instance>
+<instance id="1481"  target="erupt">ROUNDUP: Protests erupt despite "state of siege" In Guinea</instance>
+<instance id="1485"  target="miss">Serena misses Bangalore tournament</instance>
+</corpus>

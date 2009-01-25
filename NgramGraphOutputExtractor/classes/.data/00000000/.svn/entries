@@ -1,0 +1,54 @@
+8
+
+dir
+3
+http://corelon.unfuddle.com/svn/corelon_hmb/NgramGraphOutputExtractor/classes/.data/00000000
+http://corelon.unfuddle.com/svn/corelon_hmb
+
+
+
+2009-01-06T13:23:05.709351Z
+1
+corelon
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+858a89b5-6fb2-4053-b404-c37685101d41
+
+je.lck
+file
+
+
+
+
+2009-01-06T19:07:59.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-01-06T13:23:05.709351Z
+1
+corelon
+has-props
+
+00000000.jdb
+file
+
+
+
+
+2009-01-06T19:07:59.000000Z
+ed65a21a5f9e1dedc9b9ec5615906fb6
+2009-01-06T13:23:05.709351Z
+1
+corelon
+has-props
+

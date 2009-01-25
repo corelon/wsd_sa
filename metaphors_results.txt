@@ -1,0 +1,222 @@
+513:
+	target: hero#n#1
+524:
+	target: set#v#1
+	target1: record#n#3
+540:
+	target: way#n#2
+541:
+	target: free#r#1
+544:
+	target: bombing#n#2
+555:
+	target: ban#v#2
+570:
+	target: loom#v#2
+586:
+	target: climb#v#1
+	target1: record#n#2
+588:
+	target: battle#v#1
+596:
+	target: lock#v#2
+617:
+	target: wiggle#v#1
+621:
+	target: hit#v#4
+630:
+	target: bombshell#n#1
+635:
+	target: step#v#1
+637:
+	target: combat#v#1
+646:
+	target: kill#v#1
+653:
+	target: cool#v#3
+684:
+	target: magnet#n#2
+690:
+	target: mess#n#6
+649:
+	target: shine#v#10
+677:
+	target: suffer#v#11
+689:
+	target: terror#n#4
+702:
+	target: lead#v#12
+705:
+	target: doomsday#n#1
+732:
+	target: strike#v#2
+728:
+	target: lead#v#6
+738:
+	target: attack#v#1
+740:
+	target: attack#v#2
+742:
+	target: force#v#8
+744:
+	target: infection#n#1
+	valence: block#v#10
+	valence_all: halt#v#3
+746:
+	target: lead#n#7
+755:
+	target: doomsday#n#1
+757:
+	target: hit#v#4
+769:
+	target: rock#v#2
+770:
+	target: test#n#5
+	target1: boast#n#1
+771:
+772:
+	target: flock#v#1
+776:
+	target: slam#v#1
+777:
+	target: optimism#n#2
+	target1: reach#v#5
+	target2: crossroad#n#1
+	valence: rare#a#5
+782:
+	target: detain#v#3
+783:
+	target: award#v#2
+786:
+	target: aftermath#n#2
+	target1: scandal#n#2
+788:
+	target: inflation#n#1
+	target1: economy#n#1
+	valence: soar#v#4
+	valence1: plunge#v#2
+790:
+	target: fear#n#1
+	target1: shackle#v#2
+797:
+	target: strip#v#1
+799:
+	valence: halt#v#2
+812:
+	target: split#n#3
+813:
+	target: hit#v#10
+819:
+	target: disaster#n#2
+825:
+	target: hit#v#4
+	target1: high#n#1
+836:
+	target: split#n#7
+838:
+	target: hit#v#4
+564:
+	target: hit#v#4
+862:
+	target: muscle#n#1
+	valence: strengthen#v#1
+864:
+	target: step#n#3
+877:
+	target: nuke#n#1
+	valence: dismantle#v#2
+884:
+	target: cutting_edge#n#1
+885:
+	target: descend#v#1
+889:
+	target: chaos#n#3
+901:
+	target: align#v#1
+903:
+	target: strike#v#4
+914:
+	target: chaos#n#4
+917:
+	target: chaos#n#4
+919:
+	target: dig#v#8
+925:
+	target: beget#v#1
+927:
+	target: turn-on#n#1
+929:
+	target: bonus#n#2
+	target1: management#n#1
+	valence: cut#v#2
+	valence1: trim#v#3
+952:
+	target: crown#n#4
+958:
+	target: slam#v#3
+975:
+	target: flu#n#1
+	valence: flare#v#1
+982:
+	target: weigh#v#4
+983:
+	target: hit#v#4
+1030:
+	target: key#a#1
+1037:
+	target: shore_up#v#1
+1052:
+	target: rescue#v#2
+1054:
+	target: comfort_zone#n#1
+1100:
+	target: harm#v#1
+1105:
+	target: health#n#1
+	target1: hot_issue#n#1
+1108:
+	target: puzzle#n#1
+1132:
+	target: hit#v#4
+1152:
+	target: haven#n#2
+1195:
+	target: driving_force#n#1
+1203:
+	target: open_door#n#2
+1206:
+	target: surge#v#5
+1207:
+	target: slash#v#4
+1227:
+	target: pop_up#v#1
+1292:
+	target: slam#v#3
+1347:
+	target: scatter#v#4
+1349:
+	target: boot#v#2
+1297:
+	target: cut_through#v#1
+1310:
+	target1: debate#n#1
+	target2: heated#a#2
+	valence_all: stir#v#4
+1319:
+	target: soar#v#1
+	valence: fail#v#4
+1422:
+	target: colt#n#1
+	target1: wild#a#8
+1425:
+	target: pot#n#5
+	target1: gold#n#5
+	valence: not#r#1
+624:
+	target: cripple#v#2
+1428:
+	target: dream#n#4
+1457:
+	target: helm#n#1
+1493:
+	target: escape#v#1

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Vassiliki</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Vassiliki</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>NgramGraphOutputExtractor</path>
+			</folderitem>
+			<folderitem>
+				<path>NgramGraphOutputExtractor\classes</path>
+			</folderitem>
+			<folderitem>
+				<path>NgramGraphOutputExtractor\classes\.data</path>
+			</folderitem>
+			<folderitem>
+				<path>NgramGraphOutputExtractor\classes\.data\00000000</path>
+			</folderitem>
+			<folderitem>
+				<path>NgramGraphOutputExtractor\src</path>
+			</folderitem>
+			<folderitem>
+				<path>NgramGraphOutputExtractor\src\gr</path>
+			</folderitem>
+			<folderitem>
+				<path>NgramGraphOutputExtractor\src\gr\demokritos</path>
+			</folderitem>
+			<folderitem>
+				<path>NgramGraphOutputExtractor\src\gr\demokritos\iit</path>
+			</folderitem>
+			<folderitem>
+				<path>NgramGraphOutputExtractor\src\gr\demokritos\iit\sentiment</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>ConnectNGramWithSenseRelate.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

@@ -1,0 +1,458 @@
+508:
+	target: seek#v#3 neg
+	target1: ipod#n#1 neg
+	valence1: ban#n#1 pos
+519:
+	target: boost#v#3 neg
+521:
+	target: plot#v#4 neg
+	target1: censure#n#1 neg
+525:
+	target: bid#n#1 neg
+	target1: boost#v#3 neg
+542:
+	target: hand#v#1 pos
+	target1: draw#n#5 neg
+	targetadj1: tough#a#3 neg
+548:
+	target: clash#n#3 neg
+556:
+	target: facelift#n#1 pos
+562:
+	target: test#n#5 pos
+	target1: boast#n#1 pos
+563:
+	target: issue#v#2 pos
+	target1: report#n#3 pos
+	targetadj1: bleak#a#3 neg
+566:
+	target: step#v#9 pos
+572:
+	target: urge#v#1 pos
+	target1: go#v#1 pos
+	targetadj1: green#a#1 pos
+602:
+	target: mistrial#n#nr neg
+611:
+	target: breakthrough#n#3 pos
+612:
+	target: start#n#5 pos
+	targetadj: ragged#a#1 neg
+	valence_all: overcome#v#1 neg
+614:
+	target: hail#v#1 pos
+619:
+	target: fight#v#1 neg
+622:
+	target: home#n#2 pos
+624:
+	target: cripple#v#2 neg
+625:
+	target: star#v#3 neg
+627:
+	target: facelift#n#1 pos
+640:
+	target: alert#n#3 pos
+644:
+	target: reach#v#8 pos
+	target1: ring#n#5 pos
+	target2: scandal#n#2 neg
+	targetadj1: porn#n#1 pos
+663:
+	target: turn#v#2 pos
+664:
+	target: reflect#v#2 neg
+	target1: toll#n#3 pos
+670:
+	target: block#v#2 neg
+671:
+	target: push#n#4 neg
+676:
+	target: strike#n#2 neg
+	targetadj: violent#a#1 neg
+	valence_all: halt#v#2 pos
+685:
+	target: booming#a#1 pos
+694:
+	target: buy#v#1 neg
+	valence: fail#v#4 neg
+697:
+	target: fear#n#1 pos
+	valence: spark#v#2 pos
+704:
+	target: drought#n#2 neg
+	valence: end#v#2 neg
+708:
+	target: respond#v#1 neg
+	target1: force#n#5 neg
+716:
+	target1: outrage#n#3 neg
+	valence: spur#v#1 pos
+719:
+	target: try#v#1 neg
+727:
+	target: fade#v#2 neg
+748:
+	target: light#v#4 pos
+753:
+	target: custody#n#3 pos
+758:
+	target: call#v#18 pos
+	valence: unequivocal#a#1 pos
+761:
+	target: brain_drain#n#1 pos
+	target1: agonize#v#1 neg
+765:
+	target: welcome#v#1 pos
+770:
+	target: test#n#5 pos
+772:
+	target: flock#v#1 neg
+773:
+	target: eye#n#1 neg
+	target1: lose#v#1 neg
+777:
+	target: crossroad#n#1 neg
+	target1: optimism#n#2 neg
+	targetadj1: rare#a#5 neg
+783:
+	target: award#v#2 pos
+786:
+	target: aftermath#n#2 pos
+	target1: scandal#n#2 neg
+800:
+	target: work#v#1 neg
+802:
+	target: go#v#1 pos
+	target1: slow#a#1 neg
+806:
+	target: collapse#n#1 neg
+	target1: catch#v#7 neg
+810:
+	target: lead#v#2 pos
+814:
+	target: keep#v#1 pos
+	target1: calm#a#2 pos
+824:
+	target: keep_open#v#1 neg
+830:
+	target: binge#n#2 pos
+831:
+	target: celebration#n#2 pos
+	valence: spark#v#2 pos
+840:
+	target: fight#n#2 neg
+845:
+	target: urge#v#1 pos
+847:
+	target: boost#v#3 neg
+850:
+	target: clash#n#4 neg
+857:
+	target: row#n#4 neg
+	valence: spark#v#2 pos
+858:
+	target: boom#n#3 pos
+866:
+	target: duel#n#1 pos
+	valence: victorious#a#2 pos
+867:
+	target: alert#n#3 pos
+873:
+	target: support#v#4 neg
+876:
+	target: lead#n#7 pos
+879:
+	target: bid#n#1 neg
+887:
+	target: force#v#7 neg
+894:
+	target: lead#n#9 pos
+898:
+	target: battle#n#3 neg
+908:
+	target: sectarianism#n#1 neg
+	valence: speed#v#1 neg
+910:
+	target: force#v#1 neg
+912:
+	target: dispute#n#1 pos
+930:
+	target: trend#n#1 pos
+	target1: death#n#1 neg
+	valence1: drop#n#2 pos
+945:
+	target: giant#a#1 neg
+	target1: target#n#1 pos
+	target2: miss#v#7 neg
+941:
+	target: speak#v#1 neg
+	target1: softly#r#3 pos
+947:
+	target: lead#n#10 pos
+	valence: stretch#v#10 pos
+952:
+	target: crown#n#4 neg
+963:
+	target: move#n#3 neg
+965:
+	target: fight#v#1 neg
+970:
+	target: fear#n#1 pos
+	valence: ease#v#3 neg
+972:
+	target: bowl_over#v#1 neg
+974:
+	target: attack#n#1 neg
+992:
+	target: fight#n#2 neg
+995:
+	target: price#n#2 pos
+	valence: cut#v#1 neg
+1002:
+	target: promise#n#1 pos
+1003:
+	target: fight#v#1 neg
+1006:
+	target: fear#v#2 neg
+1021:
+	target: unruly#a#1 neg
+1040:
+	target: purge#v#3 pos
+1048:
+	target: head#v#6 pos
+1053:
+	target: revive#v#3 pos
+1062:
+	target: seize#v#5 neg
+1074:
+	target: congestion#n#2 neg
+1075:
+	target: charge#n#3 pos
+	target1: congestion#n#2 neg
+	valence_all: greet#v#1 pos
+1077:
+	target: move#v#1 pos
+	target1: smooth_over#v#1 pos
+1079:
+	target: root#n#1 neg
+1081:
+	target: breakthrough#n#1 pos
+	target1: hope#v#3 pos
+1091:
+	target: cancer#n#4 neg
+	valence: stop#v#1 neg
+1095:
+	target: lay_off#v#1 neg
+1096:
+	target: lay_off#v#1 neg
+1113:
+	target: hope#v#3 pos
+1115:
+	target: failure#n#3 neg
+	valence: help#v#1 pos
+1125:
+	target: move#n#3 neg
+	valence: no#a#1 neg
+1126:
+	target: on_the_spot#r#1 neg
+1129:
+	target: sentence#n#3 pos
+1131:
+	target: unveil#v#2 neg
+1133:
+	target: unveil#v#2 neg
+1138:
+	target: damage#n#4 pos
+1142:
+	target: revel#v#1 pos
+1144:
+	target: upset#v#3 neg
+1151:
+	target: cool#a#5 neg
+1155:
+	target: release#v#5 pos
+1157:
+       target: turn_in#v#2 pos
+1158:
+	target: action#n#1 pos
+1168:
+	target: blast#v#8 neg
+1170:
+        target:make_up#v#1  pos
+1176:
+	target: ahead#r#5 pos
+1178:
+	target: claim#v#5 pos
+1181:
+	target: attack#n#5 neg
+	valence: rev_up#v#1 pos
+1182:
+	target: hinder#v#2 neg
+1187:
+	target: protest#v#2 neg
+1191:
+	target: frustration#n#1 neg
+	target1: stall#v#3 pos
+	valence: rise#v#1 pos
+1200:
+	target: duty#n#1 pos
+1201:
+	target: battle#n#3 neg
+1205:
+	target: help#v#1 pos
+1208:
+	target: profit#n#1 pos
+	valence: rise#v#1 pos
+1210:
+	target: reign#v#1 neg
+1211:
+	target: rule#v#2 pos
+1212:
+	target: rally#v#5 pos
+1220:
+	target: go_down#v#1 neg
+1232:
+	target: run#v#3 neg
+1233:
+	target: come#v#1 pos
+1234:
+	target: stop#v#9 neg
+1238:
+	target: bid#n#4 neg
+1239:
+	target: nap#n#1 neg
+	target1: good_for_you#a#1 pos
+1244:
+	target: lag#v#1 neg
+1249:
+	target: confusion#n#3 neg
+	target1: charge#n#3 pos
+	valence: cause#v#2 pos
+1251:
+	target: poise#v#3 neg
+1252:
+	valence: ban#v#2 neg
+1257:
+	target: blast#n#2 pos
+1263:
+	target: mean#a#1 pos
+1264:
+	target: snub#v#2 neg
+1265:
+	target: win#n#1 pos
+	targetadj: snatch#v#1 neg
+	valence_all: help#v#1 pos
+1267:
+	target: grow#v#3 pos
+1272:
+	target: risk#n#1 neg
+	valence: cut#v#2 neg
+1274:
+	target: way#n#2 pos
+1283:
+	target: fight#v#1 neg
+1284:
+	target: drive#v#1 neg
+1288:
+	target: risk#n#1 neg
+	valence: cut#v#2 neg
+1289:
+	target: hit#v#1 neg
+1290:
+	target: mark#v#2 pos
+1295:
+	target: skate#v#1 neg
+	target1: single_out#v#1 pos
+1312:
+	target: expose#v#3 pos
+1322:
+	target: woo#v#2 pos
+1320:
+	target: talk#n#5 pos
+	target1: stall#v#3 pos
+1340:
+	target: gap#n#6 neg
+	valence: wide#a#2 neg
+1341:
+	target: chaos#n#3 neg
+	target1: hit#v#4 neg
+1344:
+	target: force#n#5 neg
+	target1: foster#v#3 pos
+	target2: ambition#n#2 neg
+1345:
+	target: ring#v#4 pos
+1354:
+	target: debate#n#1 pos
+	valence: spark#v#1 pos
+1360:
+	target: unveil#v#2 neg
+1364:
+	target: lock#v#5 neg
+1365:
+	target: lean#a#1 neg
+	target1: lethargic#a#1 neg
+1370:
+	target: risk#n#1 neg
+	valence: cut#v#2 neg
+1374:
+	target: dull#a#11 neg
+1375:
+	target1: record#n#7 pos
+1380:
+	target: fight#v#1 neg
+1391:
+	target: blast#v#9 neg
+1398:
+	target: clear#v#4 neg
+1407:
+	target: lead#v#6 pos
+1408:
+	target: name#v#4 pos
+1409:
+	target: drop#v#21 neg
+	valence: not#r#1 neg
+1412:
+	target: call#n#12 pos
+1413:
+	target: claim#n#1 pos
+1433:
+	target: promise#v#2 pos
+	target1: hope#n#3 neg
+1434:
+	target: beauty#n#1 pos
+1435:
+	target: payback#n#1 pos
+1437:
+	target: pay#v#7 pos
+1439:
+	target: link#v#1 pos
+1440:
+	target: slash#v#2 neg
+1441:
+	target: abuse#n#2 pos
+1442:
+	target: breakthrough#n#1 pos
+1445:
+	target: set#v#1 pos
+	target1: record#n#2 pos
+1453:
+	target: scare#n#1 neg
+1463:
+	target: fad#n#1 neg
+1465:
+	target: risk#n#1 neg
+	valence: cut#v#2 neg
+1471:
+	target: trump#v#2 neg
+1475:
+        target: hang_on#v#3 pos
+1476:
+	target: seize#v#4 neg
+1477:
+	target: revealing#a#1 neg
+1481:
+	target: erupt#v#3 neg
+1485:
+	target: miss#v#3 neg

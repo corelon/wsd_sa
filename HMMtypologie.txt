@@ -1,0 +1,11 @@
+(n+)   ->   0
+(n-)   ->   1
+(v+)   ->   2
+(v-)   ->   3
+(s+)   ->   4(intensifier)
+(s-)   ->   5(diminisher)
+(r)    ->   6(reverser)
+(adj-) ->   7
+(adj+) ->   8
+(adv+) ->   9
+(adv-) ->   10

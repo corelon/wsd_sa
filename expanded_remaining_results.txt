@@ -1,0 +1,10 @@
+508:
+	target: seek#v#3
+	target1: ipod#n#1
+	valence1: ban#n#1
+1157:
+	target: turn_in#v#2
+1170:
+	target: make_up#v#1
+1475:
+	target: hang_on#v#3
